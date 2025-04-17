@@ -53,7 +53,7 @@ const results = computed(() => {
         class="grow max-w-[24rem]"
       />
     </div>
-  
+    <p class="italic text-center text-xl font-bold">Click/tap on a card to see more details</p>
     <div class="flex flex-wrap p-5 gap-5 justify-center">
       <CardGalleryItem
         v-for="card in results"
