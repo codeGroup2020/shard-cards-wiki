@@ -6,7 +6,7 @@ defineProps<{
 }>()
 </script>
 <template>
-    <NuxtLink :to="card.path" class="w-[20rem] aspect-2/3 bg-slate-100 rounded-md overflow-hidden max-w-full">
+    <NuxtLink :to="card.path" class="w-[288px] aspect-288/447 bg-transparent max-w-full hover:scale-101">
         <img 
             :src="card.imagePath" 
             class="object-cover"

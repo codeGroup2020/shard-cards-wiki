@@ -1,10 +1,10 @@
 ---
-path: /small-heads
-imagePath: /shard-card-images/small-heads.jpg
+path: /cards/small-heads
+imagePath: /shard-card-images/small_heads.png
 title: Small Heads
 description: Allied heads are smaller!
 ---
 
-# Big Heads
-
-This is test content.
+::titled-section{title="Effect Details"}
+Test
+::
