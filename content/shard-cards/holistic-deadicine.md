@@ -1,0 +1,16 @@
+---
+path: /cards/holistic-deadicine
+imagePath: /shard-card-images/holistic_deadicine.png
+title: Holistic Deadicine
+description: "[N Points] [Kill]: Regain Nx10% HP."
+cost: 'n'
+offenseRating: 0
+defenseRating: 0
+tags:
+---
+::details-section
+Coming Soon
+::
+::strategies-section
+Coming Soon
+::

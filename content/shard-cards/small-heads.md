@@ -9,8 +9,8 @@ defenseRating: 0
 tags:
 ---
 ::details-section
-Coming Soon
+Coming Soon
 ::
 ::strategies-section
-Coming Soon
+Coming Soon
 ::
