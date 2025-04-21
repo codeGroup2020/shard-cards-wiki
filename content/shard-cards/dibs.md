@@ -1,6 +1,6 @@
 ---
 path: /cards/dibs
-imagePath: /shard-card-images/dibs.png
+imagePath: /shard-card-images/dibs.webp
 title: Dibs
 description: "[Treasures]: Only destructible by your team."
 cost: '3'

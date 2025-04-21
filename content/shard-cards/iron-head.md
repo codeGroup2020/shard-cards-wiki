@@ -1,6 +1,6 @@
 ---
 path: /cards/iron-head
-imagePath: /shard-card-images/iron_head.png
+imagePath: /shard-card-images/iron_head.webp
 title: Iron Head
 description: Headshots don't cause you bonus damage
 cost: '4'

@@ -1,6 +1,6 @@
 ---
 path: /cards/extra-site
-imagePath: /shard-card-images/extra_site.png
+imagePath: /shard-card-images/extra_site.webp
 title: Extra Site
 description: Add an extra Target Site.
 cost: '3'

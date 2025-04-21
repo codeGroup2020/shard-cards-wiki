@@ -1,6 +1,6 @@
 ---
 path: /cards/foot-dragging
-imagePath: /shard-card-images/foot_dragging.png
+imagePath: /shard-card-images/foot_dragging.webp
 title: Foot Dragging
 description: "[N Points]: Enemy movement speed -Nx3%."
 cost: 'n'

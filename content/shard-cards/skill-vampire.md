@@ -1,6 +1,6 @@
 ---
 path: /cards/skill-vampire
-imagePath: /shard-card-images/skill_vampire.png
+imagePath: /shard-card-images/skill_vampire.webp
 title: Skill Vampire
 description: "[Skill]: Lifesteal +100%."
 cost: '2'

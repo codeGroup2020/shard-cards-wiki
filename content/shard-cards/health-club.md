@@ -1,6 +1,6 @@
 ---
 path: /cards/health-club
-imagePath: /shard-card-images/health_club.png
+imagePath: /shard-card-images/health_club.webp
 title: Health Club
 description: Max HP +25.
 cost: '5'

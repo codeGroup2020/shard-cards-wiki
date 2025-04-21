@@ -1,6 +1,6 @@
 ---
 path: /cards/big-heads
-imagePath: /shard-card-images/big_heads.png
+imagePath: /shard-card-images/big_heads.webp
 title: Big Heads
 description: Enemy heads are bigger!
 cost: '5'

@@ -1,6 +1,6 @@
 ---
 path: /cards/sustained-exposure
-imagePath: /shard-card-images/sustained_exposure.png
+imagePath: /shard-card-images/sustained_exposure.webp
 title: Sustained Exposure
 description: Enemies are exposed when sustaining ongoing damage.
 cost: '2'

@@ -7,7 +7,7 @@
         </div>
         <div class="w-full md:w-1/2">
             <img
-                src="/fragpunk-logo.png"
+                src="/fragpunk-logo.webp"
                 class="image-contain"
             />
         </div>

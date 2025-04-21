@@ -1,6 +1,6 @@
 ---
 path: /cards/cure-shot
-imagePath: /shard-card-images/cure_shot.png
+imagePath: /shard-card-images/cure_shot.webp
 title: Cure Shot
 description: "[Bullet]: Shoot teammates to heal them."
 cost: '4'

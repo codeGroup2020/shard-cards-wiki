@@ -1,6 +1,6 @@
 ---
 path: /cards/guess-who
-imagePath: /shard-card-images/guess_who.png
+imagePath: /shard-card-images/guess_who.webp
 title: Guess Who?
 description: "[Bullet]: Enemies can't see damage indicators."
 cost: '3'

@@ -1,6 +1,6 @@
 ---
 path: /cards/frozen-wasteland
-imagePath: /shard-card-images/frozen_wasteland.png
+imagePath: /shard-card-images/frozen_wasteland.webp
 title: Frozen Wasteland
 description: Snowy landscape that allows sliding.
 cost: '3'

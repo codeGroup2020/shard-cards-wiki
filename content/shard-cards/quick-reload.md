@@ -1,6 +1,6 @@
 ---
 path: /cards/quick-reload
-imagePath: /shard-card-images/quick_reload.png
+imagePath: /shard-card-images/quick_reload.webp
 title: Quick Reload
 description: Reloading time is greatly increased.
 cost: '3'

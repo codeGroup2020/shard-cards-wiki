@@ -1,6 +1,6 @@
 ---
 path: /cards/deadly-rewind
-imagePath: /shard-card-images/deadly_rewind.png
+imagePath: /shard-card-images/deadly_rewind.webp
 title: Deadly Rewind
 description: Your last few bullets zip back into your gun when you reload.
 cost: '2'

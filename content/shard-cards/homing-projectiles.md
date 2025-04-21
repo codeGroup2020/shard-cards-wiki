@@ -1,6 +1,6 @@
 ---
 path: /cards/homing-projectiles
-imagePath: /shard-card-images/homing_projectiles.png
+imagePath: /shard-card-images/homing_projectiles.webp
 title: Homing Projectiles
 description: "[Projectiles]: Track Enemies"
 cost: '3'

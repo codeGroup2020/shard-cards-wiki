@@ -1,6 +1,6 @@
 ---
 path: /cards/nerfed-b-site
-imagePath: /shard-card-images/nerfed_b_site.png
+imagePath: /shard-card-images/nerfed_b_site.webp
 title: Nerfed B Site
 description: Reduce cover around B Site.
 cost: '3'

@@ -1,6 +1,6 @@
 ---
 path: /cards/spreading-smoke
-imagePath: /shard-card-images/spreading_smoke.png
+imagePath: /shard-card-images/spreading_smoke.webp
 title: Spreading Smoke
 description: Smoke size +50%.
 cost: '3'

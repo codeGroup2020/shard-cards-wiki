@@ -1,6 +1,6 @@
 ---
 path: /cards/super-jump
-imagePath: /shard-card-images/super_jump.png
+imagePath: /shard-card-images/super_jump.webp
 title: Super Jump
 description: You jumps become SUPER!
 cost: '4'

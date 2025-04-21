@@ -1,6 +1,6 @@
 ---
 path: /cards/flashy-projectiles
-imagePath: /shard-card-images/flashy_projectiles.png
+imagePath: /shard-card-images/flashy_projectiles.webp
 title: Flashy Projectiles
 description: "[Projectiles]: Release a flash on first collision."
 cost: '4'

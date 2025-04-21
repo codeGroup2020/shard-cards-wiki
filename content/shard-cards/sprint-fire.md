@@ -1,6 +1,6 @@
 ---
 path: /cards/sprint-fire
-imagePath: /shard-card-images/sprint_fire.png
+imagePath: /shard-card-images/sprint_fire.webp
 title: Sprint Fire
 description: "Hipfire doesn't interupt sprinting."
 cost: '3'

@@ -1,6 +1,6 @@
 ---
 path: /cards/site-deletion
-imagePath: /shard-card-images/site_deletion.png
+imagePath: /shard-card-images/site_deletion.webp
 title: Site Deletion
 description: Remove one Target Site randomly.
 cost: '5'

@@ -1,6 +1,6 @@
 ---
 path: /cards/muscle-weakness
-imagePath: /shard-card-images/muscle_weakness.png
+imagePath: /shard-card-images/muscle_weakness.webp
 title: Muscle Weakness
 description: "Enemy [projectiles] fall faster."
 cost: '3'

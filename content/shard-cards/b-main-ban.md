@@ -1,6 +1,6 @@
 ---
 path: /cards/b-main-ban
-imagePath: /shard-card-images/b_main_ban.png
+imagePath: /shard-card-images/b_main_ban.webp
 title: B Main Ban
 description: Block B Main with a desctructible barricade.
 cost: '3'

@@ -1,6 +1,6 @@
 ---
 path: /cards/offense-defense
-imagePath: /shard-card-images/offense_defense.png
+imagePath: /shard-card-images/offense_defense.webp
 title: Offense Defense
 description: Swap Defenders and Attackers.
 cost: '4'

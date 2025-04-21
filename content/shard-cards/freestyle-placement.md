@@ -1,6 +1,6 @@
 ---
 path: /cards/freestyle-placement
-imagePath: /shard-card-images/freestyle_placement.png
+imagePath: /shard-card-images/freestyle_placement.webp
 title: Freestyle Placement
 description: Attackers can plant the converter anywhere, but the converting time +40s.
 cost: '5'

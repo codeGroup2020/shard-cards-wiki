@@ -1,6 +1,6 @@
 ---
 path: /cards/rapid-marksman-rifle
-imagePath: /shard-card-images/rapid_marksman_rifle.png
+imagePath: /shard-card-images/rapid_marksman_rifle.webp
 title: Rapid Marksman Rifle
 description: "Marksman Weapon: Rduce recoil and remove fire rate limit."
 cost: '4'

@@ -1,6 +1,6 @@
 ---
 path: /cards/two-way-portals
-imagePath: /shard-card-images/two_way_portals.png
+imagePath: /shard-card-images/two_way_portals.webp
 title: Two-Way Portals
 description: Map portals work in both directions.
 cost: '2'

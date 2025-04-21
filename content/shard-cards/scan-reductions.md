@@ -1,6 +1,6 @@
 ---
 path: /cards/scan-reductions
-imagePath: /shard-card-images/scan_reductions.png
+imagePath: /shard-card-images/scan_reductions.webp
 title: Scan Reductions
 description: Range of enemy scanning skills -50%.
 cost: '3'

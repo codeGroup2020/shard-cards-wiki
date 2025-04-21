@@ -1,6 +1,6 @@
 ---
 path: /cards/alert
-imagePath: /shard-card-images/alert.png
+imagePath: /shard-card-images/alert.webp
 title: Alert
 description: "[Disengaged]: Sense nearby enemies."
 cost: '4'

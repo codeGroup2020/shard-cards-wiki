@@ -1,6 +1,6 @@
 ---
 path: /cards/skill-replenish
-imagePath: /shard-card-images/skill_replenish.png
+imagePath: /shard-card-images/skill_replenish.webp
 title: Skill Replenish
 description: "[Skill]: Replenish over time."
 cost: '4'

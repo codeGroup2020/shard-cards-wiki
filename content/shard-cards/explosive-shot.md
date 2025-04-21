@@ -1,6 +1,6 @@
 ---
 path: /cards/explosive-shot
-imagePath: /shard-card-images/explosive_shot.png
+imagePath: /shard-card-images/explosive_shot.webp
 title: Explosive Shot
 description: "[Bullet]: Explode on impact"
 cost: '4'

@@ -1,6 +1,6 @@
 ---
 path: /cards/deaths-embrace
-imagePath: /shard-card-images/deaths_embrace.png
+imagePath: /shard-card-images/deaths_embrace.webp
 title: Death's Embrace
 description: A Reaper appears behind injured enemies, slashing anyone in range.
 cost: '3'

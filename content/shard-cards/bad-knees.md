@@ -1,6 +1,6 @@
 ---
 path: /cards/bad-knees
-imagePath: /shard-card-images/bad_knees.png
+imagePath: /shard-card-images/bad_knees.webp
 title: Bad Knees
 description: Enemies take fall damage
 cost: '4'

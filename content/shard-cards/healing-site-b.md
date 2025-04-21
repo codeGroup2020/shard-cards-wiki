@@ -1,6 +1,6 @@
 ---
 path: /cards/healing-site-b
-imagePath: /shard-card-images/healing_site_b.png
+imagePath: /shard-card-images/healing_site_b.webp
 title: Healing Site B
 description: "[N Points]: Generate a healing zone in Site B, healing Nx2 HP per seccond."
 cost: 'n'

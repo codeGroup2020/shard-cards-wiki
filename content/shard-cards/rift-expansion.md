@@ -1,6 +1,6 @@
 ---
 path: /cards/rift-expansion
-imagePath: /shard-card-images/rift_expansion.png
+imagePath: /shard-card-images/rift_expansion.webp
 title: Rift Expansion
 description: Enlarge the Target Site.
 cost: '3'

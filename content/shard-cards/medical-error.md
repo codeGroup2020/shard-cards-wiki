@@ -1,6 +1,6 @@
 ---
 path: /cards/medical-error
-imagePath: /shard-card-images/medical_error.png
+imagePath: /shard-card-images/medical_error.webp
 title: Medical Error
 description: No Healing for enemies.
 cost: '5'

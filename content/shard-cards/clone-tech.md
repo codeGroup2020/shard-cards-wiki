@@ -1,6 +1,6 @@
 ---
 path: /cards/clone-tech
-imagePath: /shard-card-images/clone_tech.png
+imagePath: /shard-card-images/clone_tech.webp
 title: Clone Tech
 description: Teamates can choose the same Lancer.
 cost: '4'

@@ -1,6 +1,6 @@
 ---
 path: /cards/nerfed-a-site
-imagePath: /shard-card-images/nerfed_a_site.png
+imagePath: /shard-card-images/nerfed_a_site.webp
 title: Nerfed A Site
 description: Reduce cover around A Site.
 cost: '3'

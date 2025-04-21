@@ -1,6 +1,6 @@
 ---
 path: /cards/killstreak-bonus
-imagePath: /shard-card-images/killstreak_bonus.png
+imagePath: /shard-card-images/killstreak_bonus.webp
 title: Killstreak Bonus
 description: "[Kill]: Damage +10% with each kill."
 cost: '3'

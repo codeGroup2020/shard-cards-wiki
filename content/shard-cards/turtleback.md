@@ -1,6 +1,6 @@
 ---
 path: /cards/turtleback
-imagePath: /shard-card-images/turtleback.png
+imagePath: /shard-card-images/turtleback.webp
 title: Turtleback
 description: Equip a turtle on your back to block bullets from behind.
 cost: '3'
