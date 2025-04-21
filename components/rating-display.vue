@@ -119,19 +119,19 @@ const submitButtonText = computed(() => hasRated.value ? 'Submit Updated Rating'
 
         <!-- modal content -->
         <template #content>
-          <div class="flex flex-col gap-8 m-8">
-            <p class="text-black text-sm">
+          <div class="flex flex-col gap-8 p-8 ">
+            <p class="text-xl">
               Please select a rating for attack and defense...
             </p>
-            <div class="flex flex-col gap-2 text-black justify-center">
-              <p class="underline text-center">Attack</p>
+            <div class="flex flex-col gap-2 justify-center">
+              <p class="underline text-center text-lg">Attack</p>
               <RatingSelect
                 v-model:hovered-rating="hoveredAttackRating"
                 v-model:selected-rating="selectedAttackRating"
               />
             </div>
-            <div class="flex flex-col gap-2 text-black justify-center">
-              <p class="underline text-center">Defense</p>
+            <div class="flex flex-col gap-2 justify-center">
+              <p class="underline text-center text-lg">Defense</p>
               <RatingSelect
                 v-model:hovered-rating="hoveredDefenseRating"
                 v-model:selected-rating="selectedDefenseRating"
@@ -141,6 +141,7 @@ const submitButtonText = computed(() => hasRated.value ? 'Submit Updated Rating'
                 <UButton
                   :label="submitButtonText"
                   color="neutral"
+                  size="lg"
                   variant="subtle"
                   class="text-center"
                   @click="submitRating"
@@ -149,6 +150,7 @@ const submitButtonText = computed(() => hasRated.value ? 'Submit Updated Rating'
                   v-if="hasRated"
                   label="Remove Rating"
                   color="error"
+                  size="lg"
                   variant="subtle"
                   class="text-center mt-2"
                   @click="removeRating"
