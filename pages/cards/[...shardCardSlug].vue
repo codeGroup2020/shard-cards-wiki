@@ -60,6 +60,6 @@ if (!card.value) {
         <p class="text-xl font-bold">Comments</p>
     </div>
     <!-- Commento thread for this page -->
-    <div id="commento" class="m-5"></div>
+    <div class="m-5"><div id="commento" class="m-5"></div></div>
   </div>
 </template>
