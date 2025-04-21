@@ -1,4 +1,14 @@
 <script setup lang="ts">
+import { useHead, useRoute, navigateTo } from '#imports'
+
+useHead({
+  script: [
+    {
+      src: 'https://cdn.commento.io/js/commento.js',
+      defer: true,
+    },
+  ],
+})
 
 definePageMeta({
   layout: 'main'
@@ -46,5 +56,10 @@ if (!card.value) {
         </div>
     </div>
     <ContentRenderer :value="card" class="m-5" />
+    <div class="pb-2 flex justify-center border-b-1 mt-12 mb-4 border-white m-5">
+        <p class="text-xl font-bold">Comments</p>
+    </div>
+    <!-- Commento thread for this page -->
+    <div id="commento" class="m-5"></div>
   </div>
 </template>
