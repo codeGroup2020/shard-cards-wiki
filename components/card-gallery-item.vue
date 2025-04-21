@@ -10,7 +10,6 @@ defineProps<{
         <img 
             :src="card.imagePath" 
             class="object-cover"
-            lazy
         />
     </NuxtLink>
 </template>
