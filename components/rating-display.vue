@@ -137,24 +137,28 @@ const submitButtonText = computed(() => hasRated.value ? 'Submit Updated Rating'
                 v-model:selected-rating="selectedDefenseRating"
               />
             </div>
-            <div class="flex justify-center">
-                <UButton
-                  :label="submitButtonText"
-                  color="neutral"
-                  size="lg"
-                  variant="subtle"
-                  class="text-center"
-                  @click="submitRating"
-                />
-                <UButton
-                  v-if="hasRated"
-                  label="Remove Rating"
-                  color="error"
-                  size="lg"
-                  variant="subtle"
-                  class="text-center mt-2"
-                  @click="removeRating"
-                />
+            <div class="flex flex-col justify-center">
+                <div class="flex justify-center">
+                  <UButton
+                    :label="submitButtonText"
+                    color="neutral"
+                    size="lg"
+                    variant="subtle"
+                    class="text-center"
+                    @click="submitRating"
+                  />
+                </div>
+                <div class="flex justify-center">
+                  <UButton
+                    v-if="hasRated"
+                    label="Remove Rating"
+                    color="error"
+                    size="lg"
+                    variant="subtle"
+                    class="text-center mt-2"
+                    @click="removeRating"
+                  />
+                </div>
             </div>
           </div>
         </template>
