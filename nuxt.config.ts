@@ -2,6 +2,9 @@
 import tailwindcss from "@tailwindcss/vite";
 
 export default defineNuxtConfig({
+  watch: [
+    '~/content/**/*.md'
+  ],
   modules: [
     '@nuxt/content',
     '@nuxt/ui'

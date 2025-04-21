@@ -25,20 +25,20 @@ if (!card.value) {
     />
   </div>
   <div v-if="card">
-    <div class="w-full flex sm:h-72 flex-col sm:flex-row my-5 gap-5">
-        <div class="w-full md:w-1/3 flex flex-col gap-5 justify-center items-center">
-          <h1 class="text-5xl font-bold text-center">{{ card.title }}</h1>
-          <p class="text-lg text-center">{{ card.description }}</p>
-          <ShardPointCostDisplay :cost="card.cost" />
-        </div>
-        <div class="w-full md:w-1/3 flex flex-col gap-5 justify-center items-center">
-          <TagDisplay :tags="card.tags" />
-          <RatingDisplay
-            :offenseRating="card.offenseRating"
-            :defenseRating="card.defenseRating"
-          />
-        </div>
-        <div class="w-full md:w-1/3 max-h-full flex justify-center">
+    <div class="flex sm:h-72 flex-col sm:flex-row m-5 gap-5 justify-between">
+          <div class="w-full md:w-1/3 flex flex-col gap-5 justify-center items-center">
+            <h1 class="text-5xl font-bold text-center">{{ card.title }}</h1>
+            <p class="text-lg text-center">{{ card.description }}</p>
+            <ShardPointCostDisplay :cost="card.cost" />
+          </div>
+          <div class="w-full md:w-1/3 flex flex-col gap-5 justify-center items-center">
+            <TagDisplay :tags="card.tags" />
+            <RatingDisplay
+              :offenseRating="card.offenseRating"
+              :defenseRating="card.defenseRating"
+            />
+          </div>
+        <div class="w-full md:w-1/5 max-h-full flex justify-center">
             <img
                 :src="card.imagePath"
                 class="image-contain"

@@ -7,5 +7,7 @@
           <UIcon name="material-symbols:help-rounded" />
         </UTooltip>
     </div>
-    <slot />
+    <div class="">
+        <slot />
+    </div>
 </template>

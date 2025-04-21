@@ -9,8 +9,11 @@ defenseRating: 0
 tags:
 ---
 ::details-section
-Coming Soon
+
 ::
+<p>Enemies are instantly teleported back to their spawnpoint the first time they take damage.</p>
+<div class="w-[50rem] max-w-full mt-4"><video src="\shard-card-pages-content\return-to-sender\return_to_sender_demonstration.mkv" controls class="max-w-full" /></div>
+
 ::strategies-section
 Coming Soon
 ::
