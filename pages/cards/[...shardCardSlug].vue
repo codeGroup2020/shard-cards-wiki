@@ -48,7 +48,7 @@ if (!card.value) {
               :defenseRating="card.defenseRating"
             />
           </div>
-        <div class="w-full md:w-1/5 max-h-full flex justify-center">
+        <div class="w-[288px] aspect-288/447 max-w-full max-h-full flex justify-center">
             <img
                 :src="card.imagePath"
                 class="image-contain"
@@ -60,6 +60,6 @@ if (!card.value) {
         <p class="text-xl font-bold">Comments</p>
     </div>
     <!-- Commento thread for this page -->
-    <div id="commento" class="m-20"></div>
+    <div class="px-20 py-5"><div id="commento" class=""></div></div>
   </div>
 </template>
