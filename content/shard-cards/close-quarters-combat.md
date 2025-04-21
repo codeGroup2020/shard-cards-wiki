@@ -4,8 +4,6 @@ imagePath: /shard-card-images/close_quarters_combat.webp
 title: Close Quarters Combat
 description: Both teams can only use melee weapons.
 cost: '5'
-offenseRating: 0
-defenseRating: 0
 tags:
 ---
 ::details-section

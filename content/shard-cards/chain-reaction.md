@@ -4,8 +4,6 @@ imagePath: /shard-card-images/chain_reaction.webp
 title: Chain Reaction
 description: "[Bullet]: Generate chain lightning."
 cost: '3'
-offenseRating: 0
-defenseRating: 0
 tags:
 ---
 ::details-section

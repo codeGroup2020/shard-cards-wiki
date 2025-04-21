@@ -4,8 +4,6 @@ imagePath: /shard-card-images/bullet_upgrade.webp
 title: Bullet Upgrade
 description: Improve pistols that launch projectiles.
 cost: '3'
-offenseRating: 0
-defenseRating: 0
 tags:
 ---
 ::details-section

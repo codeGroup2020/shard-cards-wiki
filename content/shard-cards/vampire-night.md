@@ -4,8 +4,6 @@ imagePath: /shard-card-images/vampire_night.webp
 title: Vampire Night
 description: Gain Vampire power. The power evolves after the team deals enough damage.
 cost: '5'
-offenseRating: 0
-defenseRating: 0
 tags:
 ---
 ::details-section

@@ -4,8 +4,6 @@ imagePath: /shard-card-images/portable_detector.webp
 title: Portable Detector
 description: Detect enemy gadgets nearby.
 cost: '2'
-offenseRating: 0
-defenseRating: 0
 tags:
 ---
 ::details-section

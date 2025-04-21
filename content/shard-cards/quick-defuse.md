@@ -4,8 +4,6 @@ imagePath: /shard-card-images/quick_defuse.webp
 title: Quick Defuse
 description: "[Converter]: Defusing time -50%."
 cost: '3'
-offenseRating: 0
-defenseRating: 0
 tags:
 ---
 ::details-section

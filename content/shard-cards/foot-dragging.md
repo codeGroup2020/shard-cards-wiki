@@ -4,8 +4,6 @@ imagePath: /shard-card-images/foot_dragging.webp
 title: Foot Dragging
 description: "[N Points]: Enemy movement speed -Nx3%."
 cost: 'n'
-offenseRating: 0
-defenseRating: 0
 tags:
 ---
 ::details-section

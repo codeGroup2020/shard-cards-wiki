@@ -4,8 +4,6 @@ imagePath: /shard-card-images/stealthy_start.webp
 title: Stealthy Start
 description: For 30s after combat begins, you cannot be exposed.
 cost: '3'
-offenseRating: 0
-defenseRating: 0
 tags:
 ---
 ::details-section

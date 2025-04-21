@@ -42,11 +42,7 @@ if (!card.value) {
             <ShardPointCostDisplay :cost="card.cost" />
           </div>
           <div class="w-full md:w-1/3 flex flex-col gap-5 justify-center items-center">
-            <TagDisplay :tags="card.tags" />
-            <RatingDisplay
-              :offenseRating="card.offenseRating"
-              :defenseRating="card.defenseRating"
-            />
+            <RatingDisplay />
           </div>
         <div class="w-[288px] aspect-288/447 max-w-full max-h-full flex justify-center">
             <img

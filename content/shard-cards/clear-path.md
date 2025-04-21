@@ -4,8 +4,6 @@ imagePath: /shard-card-images/clear_path.webp
 title: Clear Path
 description: No doors in the level.
 cost: '2'
-offenseRating: 0
-defenseRating: 0
 tags:
 ---
 ::details-section

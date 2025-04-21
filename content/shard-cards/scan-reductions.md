@@ -4,8 +4,6 @@ imagePath: /shard-card-images/scan_reductions.webp
 title: Scan Reductions
 description: Range of enemy scanning skills -50%.
 cost: '3'
-offenseRating: 0
-defenseRating: 0
 tags:
 ---
 ::details-section

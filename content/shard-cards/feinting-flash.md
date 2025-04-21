@@ -4,8 +4,6 @@ imagePath: /shard-card-images/feinting_flash.webp
 title: Feinting Flash
 description: Dropping your primary weapon generates a flashbang.
 cost: '3'
-offenseRating: 0
-defenseRating: 0
 tags:
 ---
 ::details-section

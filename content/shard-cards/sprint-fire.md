@@ -4,8 +4,6 @@ imagePath: /shard-card-images/sprint_fire.webp
 title: Sprint Fire
 description: "Hipfire doesn't interupt sprinting."
 cost: '3'
-offenseRating: 0
-defenseRating: 0
 tags:
 ---
 ::details-section

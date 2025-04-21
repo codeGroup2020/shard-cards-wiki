@@ -4,8 +4,6 @@ imagePath: /shard-card-images/vampire_bullet.webp
 title: Vampire Bullet
 description: "[N Points] [Bullet]: Lifesteal +Nx5%."
 cost: 'n'
-offenseRating: 0
-defenseRating: 0
 tags:
 ---
 ::details-section

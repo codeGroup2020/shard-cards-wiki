@@ -4,8 +4,6 @@ imagePath: /shard-card-images/emergency_evacuation.webp
 title: Emergency Evacuation
 description: When under attack, movement speed +20%.
 cost: '4'
-offenseRating: 0
-defenseRating: 0
 tags:
 ---
 ::details-section

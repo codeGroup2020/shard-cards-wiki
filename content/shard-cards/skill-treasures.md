@@ -4,8 +4,6 @@ imagePath: /shard-card-images/skill_treasures.webp
 title: Skill Treasures
 description: "[Treasure] can now drop items that replenish skill uses."
 cost: '2'
-offenseRating: 0
-defenseRating: 0
 tags:
 ---
 ::details-section

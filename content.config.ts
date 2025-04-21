@@ -12,8 +12,6 @@ export default defineContentConfig({
         title:       z.string(),
         description: z.string(),
         cost:        z.enum(['n', '1', '2', '3', '4', '5']),
-        offenseRating: z.number().min(-5).max(5),
-        defenseRating: z.number().min(-5).max(5),
         tags:        z.array(z.object({
           title:       z.string(),
           description: z.string(),

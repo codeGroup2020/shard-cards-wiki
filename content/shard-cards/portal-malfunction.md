@@ -4,8 +4,6 @@ imagePath: /shard-card-images/portal_malfunction.webp
 title: Portal Malfunction
 description: Disable portals on the map.
 cost: '2'
-offenseRating: 0
-defenseRating: 0
 tags:
 ---
 ::details-section

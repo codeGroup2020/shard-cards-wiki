@@ -4,8 +4,6 @@ imagePath: /shard-card-images/life_saver.webp
 title: Life Saver
 description: "[Deathrattle]: Teamates can be revived once."
 cost: '4'
-offenseRating: 0
-defenseRating: 0
 tags:
 ---
 ::details-section

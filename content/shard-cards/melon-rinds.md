@@ -4,8 +4,6 @@ imagePath: /shard-card-images/melon_rinds.webp
 title: Melon Rinds
 description: Get a throwable melon rind that can make enemies slip.
 cost: '3'
-offenseRating: 0
-defenseRating: 0
 tags:
 ---
 ::details-section

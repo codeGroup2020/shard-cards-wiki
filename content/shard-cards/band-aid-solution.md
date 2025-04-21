@@ -4,8 +4,6 @@ imagePath: /shard-card-images/band_aid_solution.webp
 title: Band-Aid Solution
 description: "[Injured]: Regain a small amount of HP."
 cost: '4'
-offenseRating: 0
-defenseRating: 0
 tags:
 ---
 ::details-section

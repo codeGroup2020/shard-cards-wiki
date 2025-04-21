@@ -4,8 +4,6 @@ imagePath: /shard-card-images/full_moon.webp
 title: Full Moon
 description: Gain Werewolf power. The power evolves after the team deals enough damage.
 cost: '3'
-offenseRating: 0
-defenseRating: 0
 tags:
 ---
 ::details-section

@@ -4,8 +4,6 @@ imagePath: /shard-card-images/stealth_novice.webp
 title: Stealth Novice
 description: Enemies expose themselves when they enter or exit invisibility by skills.
 cost: '2'
-offenseRating: 0
-defenseRating: 0
 tags:
 ---
 ::details-section

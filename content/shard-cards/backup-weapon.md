@@ -4,8 +4,6 @@ imagePath: /shard-card-images/backup_weapon.webp
 title: Backup Weapon
 description: You can equip anoter primary weapon to your secondary weapon slot.
 cost: '5'
-offenseRating: 0
-defenseRating: 0
 tags:
 ---
 ::details-section

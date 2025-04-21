@@ -4,8 +4,6 @@ imagePath: /shard-card-images/toxic_traps.webp
 title: Toxic Traps
 description: Each ally can place one toxic trap.
 cost: '3'
-offenseRating: 0
-defenseRating: 0
 tags:
 ---
 ::details-section

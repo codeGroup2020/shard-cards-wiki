@@ -4,8 +4,6 @@ imagePath: /shard-card-images/swift_resolution.webp
 title: Swift Resolution
 description: Match time -30s.
 cost: '3'
-offenseRating: 0
-defenseRating: 0
 tags:
 ---
 ::details-section
