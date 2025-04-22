@@ -3,12 +3,14 @@ path: /cards/portal-malfunction
 imagePath: /shard-card-images/portal_malfunction.webp
 title: Portal Malfunction
 description: Disable portals on the map.
-cost: '2'
-tags:
+cost: "2"
+tags: null
 ---
+
 ::details-section
 Coming Soon
 ::
+
 ::strategies-section
 Coming Soon
 ::

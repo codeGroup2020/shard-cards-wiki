@@ -3,12 +3,14 @@ path: /cards/eagle-eyes
 imagePath: /shard-card-images/eagle_eyes.webp
 title: Eagle Eyes
 description: Expose all enemies in line of sight.
-cost: '2'
-tags:
+cost: "2"
+tags: null
 ---
+
 ::details-section
 Coming Soon
 ::
+
 ::strategies-section
 Coming Soon
 ::

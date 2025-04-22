@@ -3,12 +3,14 @@ path: /cards/pull-the-plug
 imagePath: /shard-card-images/pull_the_plug.webp
 title: Pull the Plug
 description: Disable all Shard Cards this round.
-cost: '4'
-tags:
+cost: "4"
+tags: null
 ---
+
 ::details-section
 Coming Soon
 ::
+
 ::strategies-section
 Coming Soon
 ::

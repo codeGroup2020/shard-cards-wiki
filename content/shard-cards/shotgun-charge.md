@@ -3,12 +3,14 @@ path: /cards/shotgun-charge
 imagePath: /shard-card-images/shotgun_charge.webp
 title: Shotgun Charge
 description: "Shotguns: Charge shells when ADS."
-cost: '3'
-tags:
+cost: "3"
+tags: null
 ---
+
 ::details-section
 Coming Soon
 ::
+
 ::strategies-section
 Coming Soon
 ::

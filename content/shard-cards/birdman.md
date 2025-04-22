@@ -3,12 +3,14 @@ path: /cards/birdman
 imagePath: /shard-card-images/birdman.webp
 title: Birdman
 description: "[ADS]: Fall slower when in mid air."
-cost: '2'
-tags:
+cost: "2"
+tags: null
 ---
+
 ::details-section
 Coming Soon
 ::
+
 ::strategies-section
 Coming Soon
 ::

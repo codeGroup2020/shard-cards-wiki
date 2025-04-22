@@ -3,14 +3,18 @@ path: /cards/portable-detector
 imagePath: /shard-card-images/portable_detector.webp
 title: Portable Detector
 description: Detect enemy gadgets nearby.
-cost: '2'
-tags:
+cost: "2"
+tags: null
 ---
-::details-section
 
+::details-section
 ::
-<p>Enemy gadgets—such as traps—are revealed when they’re within a 9‑meter radius of you or any teammate.</p>
-<div class="w-[50rem] max-w-full mt-4"><video src="\shard-card-pages-content\portable-detector\portable_detector_demonstration.webm" controls class="max-w-full" /></div>
+
+Enemy gadgets—such as traps—are revealed when they’re within a 9‑meter radius of you or any teammate.
+
+::div{.w-[50rem].max-w-full.mt-4}
+:video{.max-w-full controls="true" src="\shard-card-pages-content\portable-detector\portable_detector_demonstration.webm"}
+::
 
 ::strategies-section
 Coming Soon
