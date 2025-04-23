@@ -21,7 +21,7 @@ export default defineNuxtConfig({
       api: 'https://api.nuxt.studio'
     }
   },
-  modules: ['@nuxt/content', '@nuxt/ui', '@nuxthq/studio'],
+  modules: ['@nuxt/content', '@nuxt/ui'],
   compatibilityDate: '2024-11-01',
   devtools: { enabled: true },
   css: ['~/assets/css/main.css'],
