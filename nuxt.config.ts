@@ -16,10 +16,7 @@ export default defineNuxtConfig({
   watch: [
     '~/content/**/*.md'
   ],
-  modules: [
-    '@nuxt/content',
-    '@nuxt/ui'
-  ],
+  modules: ['@nuxt/content', '@nuxt/ui', '@nuxthq/studio'],
   compatibilityDate: '2024-11-01',
   devtools: { enabled: true },
   css: ['~/assets/css/main.css'],

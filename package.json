@@ -12,6 +12,7 @@
   "dependencies": {
     "@nuxt/content": "^3.4.0",
     "@nuxt/ui": "^3.0.2",
+    "@nuxthq/studio": "^2.2.1",
     "@tailwindcss/vite": "^4.1.4",
     "firebase": "^11.6.0",
     "minisearch": "^7.1.2",
