@@ -93,12 +93,12 @@ const submitButtonText = computed(() => hasRated.value ? 'Submit Updated Rating'
       <p class="underline">Community Rating</p>
       <div class="flex justify-center">
         <h3>Attack:</h3>
-        <RatingRenderer v-if="ratings.count.value !== 0" :rating="ratings.average.attack" class="ml-2 my-auto" />
+        <RatingRenderer v-if="ratings.count.value !== 0" :rating="ratings.average.attack" class="ml-2 mt-auto" />
         <p v-else class="ml-2 font-bold italic">Unrated</p>
       </div>
       <div class="flex justify-center">
         <h3>Defense:</h3>
-        <RatingRenderer v-if="ratings.count.value !== 0" :rating="ratings.average.defense" class="ml-2 my-auto" />
+        <RatingRenderer v-if="ratings.count.value !== 0" :rating="ratings.average.defense" class="ml-2 mt-auto" />
         <p v-else class="ml-2 font-bold italic">Unrated</p>
       </div>
       <p class="italic text-center text-xs">
