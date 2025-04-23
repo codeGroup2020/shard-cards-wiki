@@ -17,7 +17,7 @@ Shotguns only fire one additional pellet.
 The angle of spread appears to be 12°. Meaning at a distance of 5 meters the bullets will land within a circle with a diameter of 2 meters centered on the point you are firing at. At 10 meters it is a circle with a diameter of 4 meters, and at 20 meters the circle the bullets land in has a diameter of 8 meters.
 
 ::div{.w-[50rem].max-w-full.mt-4}
-:video{.max-w-full controls="true" src="\shard-card-pages-content\lucky-bullets\demonstration.webm"}
+:video{.max-w-full controls="true" src="\shard-card-pages-content\lucky-bullets\demonstration.mp4"}
 ::
 
 ::strategies-section

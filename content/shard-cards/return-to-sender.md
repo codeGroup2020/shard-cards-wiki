@@ -13,7 +13,7 @@ tags: null
 Enemies are instantly teleported back to their spawnpoint the first time they take damage.
 
 ::div{.w-[50rem].max-w-full.mt-4}
-:video{.max-w-full controls="true" src="\shard-card-pages-content\return-to-sender\return_to_sender_demonstration.webm"}
+:video{.max-w-full controls="true" src="\shard-card-pages-content\return-to-sender\return_to_sender_demonstration.mp4"}
 ::
 
 ::strategies-section

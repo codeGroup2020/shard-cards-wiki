@@ -15,7 +15,7 @@ You can press the "Special Shard Card" keybinding to enter a camera view from th
 If a treasure is broken, "Your Drone Has Been Destroyed" will be displayed on your HUD, and you will no longer be able to look through that tresasures POV.
 
 ::div{.w-[50rem].max-w-full.mt-4}
-:video{.max-w-full controls="true" src="\shard-card-pages-content\hidden-cameras\hidden_cameras_demonstration.webm"}
+:video{.max-w-full controls="true" src="\shard-card-pages-content\hidden-cameras\hidden_cameras_demonstration.mp4"}
 ::
 
 ::strategies-section
