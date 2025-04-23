@@ -8,7 +8,11 @@ tags: null
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+Match time is increased by 30 seconds.
 ::
 
 ::strategies-section

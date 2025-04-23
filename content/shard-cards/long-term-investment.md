@@ -8,7 +8,11 @@ tags: null
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+Each player on your team gains 0.1 Shard Points for every 7 seconds they are alive.
 ::
 
 ::strategies-section

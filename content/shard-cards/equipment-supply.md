@@ -8,7 +8,11 @@ tags: null
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+You gain an extra use of all weapons. This extra use carries over to following rounds, so for example if you picked this card and didn't buy an AR in the first round, you would still have 3 uses of AR for the rest of the half.
 ::
 
 ::strategies-section

@@ -8,7 +8,11 @@ tags: null
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+Teams switch offense and defense for this round. All other cards still apply.
 ::
 
 ::strategies-section

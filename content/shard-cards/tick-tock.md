@@ -8,7 +8,11 @@ tags: null
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+One minute after the round starts, all target sites are disabled and the converter can no longer be planted.
 ::
 
 ::strategies-section

@@ -8,7 +8,11 @@ tags: null
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+Your weapons mag size and ammo count are increased by Nx25%. With 5 points in the card mag size and weapon ammo are increased by 125%.
 ::
 
 ::strategies-section

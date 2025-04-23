@@ -8,7 +8,11 @@ tags: null
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+You spawn with 175 instead of 150 health. After you take damage you can heal back up to 175 total health.
 ::
 
 ::strategies-section

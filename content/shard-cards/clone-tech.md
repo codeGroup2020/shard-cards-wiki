@@ -8,7 +8,11 @@ tags: null
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+Multiple teamates can choose the same Lancer.
 ::
 
 ::strategies-section

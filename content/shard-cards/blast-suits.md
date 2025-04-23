@@ -8,7 +8,11 @@ tags: null
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+Damage from explosions is decreased by Nx20%. This means that when 5 points are put into the card you are immune to explosion damage.
 ::
 
 ::strategies-section

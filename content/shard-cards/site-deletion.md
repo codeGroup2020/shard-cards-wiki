@@ -8,7 +8,11 @@ tags: null
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+And random converter site is disabled and the converter cannot be planted on the disabled site.
 ::
 
 ::strategies-section

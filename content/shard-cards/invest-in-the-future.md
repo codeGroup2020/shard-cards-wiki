@@ -8,7 +8,11 @@ tags: null
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+You gain double the amount of Shard Points from all sources this round. This includes from winning or losing the round, kills, picking up Shard Points from treasures, etc.
 ::
 
 ::strategies-section

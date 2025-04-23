@@ -8,7 +8,11 @@ tags: null
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+Headshots deal an additional Nx10% damage.
 ::
 
 ::strategies-section

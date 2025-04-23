@@ -8,7 +8,11 @@ tags: null
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+All portals on the map are disabled. This is a map specific card and currently is only available on Tundra.
 ::
 
 ::strategies-section

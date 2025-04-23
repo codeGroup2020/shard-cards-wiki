@@ -8,7 +8,11 @@ tags: null
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+Weapons you buy have the same number of total bullets but all the bullets are all loaded in a single magazine. You never have to reload.
 ::
 
 ::strategies-section

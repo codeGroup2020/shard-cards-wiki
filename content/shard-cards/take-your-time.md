@@ -8,7 +8,11 @@ tags: null
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+The converter takes Nx10 seconds longer to explode after being planted.
 ::
 
 ::strategies-section

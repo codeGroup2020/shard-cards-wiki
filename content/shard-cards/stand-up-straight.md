@@ -8,7 +8,11 @@ tags: null
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+Enemies cannot crouch or slide for the round.
 ::
 
 ::strategies-section

@@ -8,7 +8,15 @@ tags: null
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+N additional converters spawn for attackers. So if you put 2 points into the card you would have 3 converters in total.
+::
+
+::text-paragraph
+You should never put more than 4 points into this card! Since there are only 5 attackers, and putting 4 points into the card gives you 5 total converters, one for each attacker.
 ::
 
 ::strategies-section

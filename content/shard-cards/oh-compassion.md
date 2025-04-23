@@ -8,7 +8,11 @@ tags: null
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+Players with a KD ratio of less than 1 (they have fewer kills than deaths), gain 10% increased rate of fire and 25% damage reduction.
 ::
 
 ::strategies-section

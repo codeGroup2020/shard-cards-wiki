@@ -8,7 +8,11 @@ tags: null
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+All primary and secondary weapons and lancer abilities are disabled. Only melee weapons are available. Effects from other cards still apply.
 ::
 
 ::strategies-section

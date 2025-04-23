@@ -8,7 +8,11 @@ tags: null
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+Recoil is reduced by 10% and damage taken is reduced by 20% while crouching.
 ::
 
 ::strategies-section
