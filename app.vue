@@ -17,7 +17,8 @@ useHead({
       'data-y_margin': '18',
       async: true
     }
-  ]
+  ],
+  title: 'SHARDCARDS.GG'
 })
 </script>
 
