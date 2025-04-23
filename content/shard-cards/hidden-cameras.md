@@ -10,12 +10,19 @@ tags: null
 ::details-section
 ::
 
+::text-paragraph
 You can press the "Special Shard Card" keybinding to enter a camera view from the POV of treasures on the map. You can toggle to the next or previous camera in this view to swap perspectives to a different treasure. You can turn and look around in all directions while in the camera views.
+::
 
+::text-paragraph
 If a treasure is broken, "Your Drone Has Been Destroyed" will be displayed on your HUD, and you will no longer be able to look through that tresasures POV.
+::
 
-::div{.w-[50rem].max-w-full.mt-4}
-:video{.max-w-full controls="true" src="\shard-card-pages-content\hidden-cameras\hidden_cameras_demonstration.mp4"}
+::titled-video
+---
+title: Hidden Cameras Demonstration
+videoPath: /shard-card-pages-content/hidden-cameras/hidden_cameras_demonstration.webm
+---
 ::
 
 ::strategies-section

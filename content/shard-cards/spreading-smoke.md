@@ -10,10 +10,15 @@ tags: null
 ::details-section
 ::
 
+::text-paragraph
 Smokes are 50% bigger than normal. See the image below for a side by side comparison.
+::
 
-::div{.w-[50rem].max-w-full.mt-4}
-![undefined](\shard-card-pages-content\spreading-smoke\comparison_image.png){.max-w-full}
+::titled-image
+---
+title: Smoke Size Comparison
+imagePath: \shard-card-pages-content\spreading-smoke\comparison_image.webp
+---
 ::
 
 ::strategies-section

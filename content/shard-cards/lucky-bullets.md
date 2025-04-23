@@ -10,14 +10,23 @@ tags: null
 ::details-section
 ::
 
+::text-paragraph
 For every shot you fire, an extra bullet is fired in a random direction within a cone centered on the direction you are aiming. So the closer you are to the target, the higher the chance this extra bullet will hit the target, and the higher your average damage output will be.
+::
 
+::text-paragraph
 Shotguns only fire one additional pellet.
+::
 
+::text-paragraph
 The angle of spread appears to be 12°. Meaning at a distance of 5 meters the bullets will land within a circle with a diameter of 2 meters centered on the point you are firing at. At 10 meters it is a circle with a diameter of 4 meters, and at 20 meters the circle the bullets land in has a diameter of 8 meters.
+::
 
-::div{.w-[50rem].max-w-full.mt-4}
-:video{.max-w-full controls="true" src="\shard-card-pages-content\lucky-bullets\demonstration.mp4"}
+::titled-video
+---
+title: Lucky Bullets Demonstration
+videoPath: /shard-card-pages-content/lucky-bullets/demonstration.webm
+---
 ::
 
 ::strategies-section

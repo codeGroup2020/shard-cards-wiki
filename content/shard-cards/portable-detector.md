@@ -10,10 +10,15 @@ tags: null
 ::details-section
 ::
 
+::text-paragraph
 Enemy gadgets—such as traps—are revealed when they’re within a 9‑meter radius of you or any teammate.
+::
 
-::div{.w-[50rem].max-w-full.mt-4}
-:video{.max-w-full controls="true" src="\shard-card-pages-content\portable-detector\portable_detector_demonstration.mp4"}
+::titled-video
+---
+title: Portable Detector Demonstration
+videoPath: /shard-card-pages-content/portable_detector/portable_detector_demonstration.webm
+---
 ::
 
 ::strategies-section

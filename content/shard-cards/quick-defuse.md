@@ -10,10 +10,15 @@ tags: null
 ::details-section
 ::
 
+::text-paragraph
 This card allows defenders to defuse the converter in half the normal time. Normally the converter takes 7s to defuse, with the card it takes 3.5s to defuse.
+::
 
-::div{.w-[50rem].max-w-full.mt-4}
-:video{.max-w-full controls="true" src="\shard-card-pages-content\quick-defuse\quick_defuse_side_by_side_demonstration.mp4"}
+::titled-video
+---
+title: Quick Defuse Comparison
+videoPath: /shard-card-pages-content/quick_defuse/quick_defuse_side_by_side_demonstration.webm
+---
 ::
 
 ::strategies-section

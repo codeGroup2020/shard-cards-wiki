@@ -44,7 +44,7 @@ if (!card.value) {
           <div class="w-full md:w-1/3 flex flex-col gap-5 justify-center items-center">
             <RatingDisplay />
           </div>
-        <div class="w-[288px] aspect-288/447 max-w-full max-h-full flex justify-center">
+        <div class="w-[288px] aspect-288/447 max-w-full max-h-full flex justify-center mx-auto">
             <img
                 :src="card.imagePath"
                 class="image-contain"
