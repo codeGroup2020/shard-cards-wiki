@@ -16,6 +16,11 @@ export default defineNuxtConfig({
   watch: [
     '~/content/**/*.md'
   ],
+  content: {
+    preview: {
+      api: 'https://api.nuxt.studio'
+    }
+  },
   modules: ['@nuxt/content', '@nuxt/ui', '@nuxthq/studio'],
   compatibilityDate: '2024-11-01',
   devtools: { enabled: true },
