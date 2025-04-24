@@ -4,7 +4,9 @@ imagePath: /shard-card-images/hud_remix.webp
 title: Hud Remix
 description: Tear off your health bar, swapping health with your target Lancer.
 cost: "3"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

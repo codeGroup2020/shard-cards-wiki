@@ -4,7 +4,9 @@ imagePath: /shard-card-images/safety_glasses.webp
 title: Safety Glasses
 description: Reduce the blinding effects of enemy actions.
 cost: "3"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

@@ -53,6 +53,20 @@ if (!card.value) {
     </div>
     <ContentRenderer :value="card" class="m-5" />
     <div class="pb-2 flex justify-center border-b-1 mt-12 mb-4 border-white m-5">
+        <p class="text-xl font-bold">Change History</p>
+    </div>
+    <ul class="list-disc mx-5">
+      <li
+        v-for="(item, index) in card.changeHistory"
+        :key="index"
+        class="ml-5"
+      >
+      <template v-for="(text, when) in item" :key="when">
+        <span class="font-bold mr-4">{{ when }}:</span> {{ text }}
+      </template>
+      </li>
+    </ul>
+    <div class="pb-2 flex justify-center border-b-1 mt-12 mb-4 border-white m-5">
         <p class="text-xl font-bold">Comments</p>
     </div>
     <!-- Commento thread for this page -->

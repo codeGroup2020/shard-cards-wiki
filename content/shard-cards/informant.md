@@ -4,13 +4,16 @@ imagePath: /shard-card-images/informant.webp
 title: Informant
 description: "[Kill]: Ping remaining enemies."
 cost: "4"
-tags: null
+removed: true
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
+  - Season 1 Chapter 2: "Card Removed"
 ---
 
 ::details-section
-Coming Soon
+Details not added because the card was removed from the game.
 ::
 
 ::strategies-section
-Coming Soon
+Strategies not added because the card was removed from the game.
 ::

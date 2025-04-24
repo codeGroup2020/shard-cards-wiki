@@ -4,7 +4,9 @@ imagePath: /shard-card-images/blast_suits.webp
 title: Blast Suits
 description: "[N Points]: Damage taken from enemy explosions -Nx20%."
 cost: n
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

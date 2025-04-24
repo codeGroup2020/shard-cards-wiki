@@ -4,13 +4,16 @@ imagePath: /shard-card-images/bullet_trade.webp
 title: Bullet Trade
 description: "[Projectile] skills can be replenished with primary weapon ammo."
 cost: "2"
-tags: null
+removed: true
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
+  - Season 1 Chapter 2: "Card Removed"
 ---
 
 ::details-section
-Coming Soon
+Details not added because the card was removed from the game.
 ::
 
 ::strategies-section
-Coming Soon
+Strategies not added because the card was removed from the game.
 ::

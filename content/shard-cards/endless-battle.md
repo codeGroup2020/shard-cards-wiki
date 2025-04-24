@@ -4,7 +4,9 @@ imagePath: /shard-card-images/endless_battle.webp
 title: Endless Battle
 description: Match time +30s.
 cost: "2"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

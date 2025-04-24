@@ -4,7 +4,9 @@ imagePath: /shard-card-images/sprint_fire.webp
 title: Sprint Fire
 description: Hipfire doesn't interupt sprinting.
 cost: "3"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

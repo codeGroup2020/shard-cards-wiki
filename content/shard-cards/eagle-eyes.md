@@ -4,7 +4,9 @@ imagePath: /shard-card-images/eagle_eyes.webp
 title: Eagle Eyes
 description: Expose all enemies in line of sight.
 cost: "2"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

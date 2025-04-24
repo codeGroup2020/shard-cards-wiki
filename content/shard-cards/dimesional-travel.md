@@ -5,7 +5,9 @@ title: Dimensional Travel
 description: All players can travel between two worlds; players in each world
   are invisble to each other.
 cost: "4"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

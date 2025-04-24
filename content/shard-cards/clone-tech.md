@@ -4,7 +4,9 @@ imagePath: /shard-card-images/clone_tech.webp
 title: Clone Tech
 description: Teamates can choose the same Lancer.
 cost: "4"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

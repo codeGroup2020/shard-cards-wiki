@@ -4,7 +4,9 @@ imagePath: /shard-card-images/extra_converter.webp
 title: Extra Converter
 description: "[N Points]: Add N Converter(s) for Attackers."
 cost: n
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

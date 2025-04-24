@@ -4,7 +4,9 @@ imagePath: /shard-card-images/big_heads.webp
 title: Big Heads
 description: Enemy heads are bigger!
 cost: "5"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

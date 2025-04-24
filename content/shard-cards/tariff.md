@@ -1,0 +1,17 @@
+---
+path: /cards/tariff
+imagePath: /placeholder.webp
+title: Tariff
+description: Get 100% of the Shard Points spent by enemies this round.
+cost: "n"
+removed: false
+changeHistory:
+  - Season 1 Chapter 2: "Card Added"
+---
+::details-section
+Coming Soon
+Shard Point Cost is Not Accurate
+::
+::strategies-section
+Coming Soon
+::

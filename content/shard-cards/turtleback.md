@@ -4,7 +4,9 @@ imagePath: /shard-card-images/turtleback.webp
 title: Turtleback
 description: Equip a turtle on your back to block bullets from behind.
 cost: "3"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

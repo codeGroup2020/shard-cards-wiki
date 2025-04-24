@@ -4,7 +4,9 @@ imagePath: /shard-card-images/plenty_of_ammo.webp
 title: Plenty of Ammo
 description: "[N Points]: Mag size and ammo +Nx25%"
 cost: n
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

@@ -4,13 +4,17 @@ imagePath: /shard-card-images/peace_treaty.webp
 title: Peace Treaty
 description: Dropping your primary weapon grants 70% damage reduction
 cost: "3"
-tags: null
+removed: true
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
+  - Season 1 Chapter 2: "Card Removed"
 ---
 
 ::details-section
-Coming Soon
+Details not added because the card was removed from the game.
 ::
 
 ::strategies-section
-Coming Soon
+Strategies not added because the card was removed from the game.
 ::
+

@@ -4,7 +4,9 @@ imagePath: /shard-card-images/fragile_converter.webp
 title: Fragile Converter
 description: The [Converter] has 1500 HP but it is destructible.
 cost: "4"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

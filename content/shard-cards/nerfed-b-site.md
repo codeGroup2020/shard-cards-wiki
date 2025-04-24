@@ -3,8 +3,11 @@ path: /cards/nerfed-b-site
 imagePath: /shard-card-images/nerfed_b_site.webp
 title: Nerfed B Site
 description: Reduce cover around B Site.
-cost: "3"
-tags: null
+cost: "2"
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
+  - Season 1 Chapter 2: "Reduced the required Shard Points to 2."
 ---
 
 ::details-section

@@ -4,7 +4,9 @@ imagePath: /shard-card-images/return_to_sender.webp
 title: Return to Sender
 description: When damaged for the first time, enemies are teleported to their spawn point.
 cost: "5"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

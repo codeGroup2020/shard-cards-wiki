@@ -4,7 +4,9 @@ imagePath: /shard-card-images/offense_defense.webp
 title: Offense Defense
 description: Swap Defenders and Attackers.
 cost: "4"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

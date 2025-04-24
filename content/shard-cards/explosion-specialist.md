@@ -4,7 +4,9 @@ imagePath: /shard-card-images/explosion_specialist.webp
 title: Explosion Specialist
 description: "[N Points]: Explosive damage +Nx20%."
 cost: n
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

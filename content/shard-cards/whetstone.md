@@ -4,7 +4,9 @@ imagePath: /shard-card-images/whetstone.webp
 title: Whetstone
 description: Melee hits to anyone, including allies, regain HP.
 cost: "4"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

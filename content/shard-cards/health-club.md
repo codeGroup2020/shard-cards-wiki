@@ -4,7 +4,9 @@ imagePath: /shard-card-images/health_club.webp
 title: Health Club
 description: Max HP +25.
 cost: "5"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

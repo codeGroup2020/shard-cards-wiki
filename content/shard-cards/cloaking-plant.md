@@ -4,7 +4,9 @@ imagePath: /shard-card-images/cloaking_plant.webp
 title: Cloaking Plant
 description: Spawn Stealth Grass on defensive routes
 cost: "2"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

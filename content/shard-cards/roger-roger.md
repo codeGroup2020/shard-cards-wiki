@@ -4,7 +4,9 @@ imagePath: /shard-card-images/roger_roger.webp
 title: Roger, Roger
 description: Deploy 2 combat bots on your team.
 cost: "4"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

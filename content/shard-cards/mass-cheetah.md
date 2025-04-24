@@ -4,7 +4,9 @@ imagePath: /shard-card-images/mass_cheetah.webp
 title: Mass Cheetah
 description: Movement speed +15%.
 cost: "4"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

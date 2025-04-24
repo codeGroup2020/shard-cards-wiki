@@ -4,7 +4,9 @@ imagePath: /shard-card-images/full_fire_power.webp
 title: Full Fire Power
 description: Load all ammo into 1 mag.
 cost: "3"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

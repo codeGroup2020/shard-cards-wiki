@@ -4,7 +4,10 @@ imagePath: /shard-card-images/portal_malfunction.webp
 title: Portal Malfunction
 description: Disable portals on the map.
 cost: "2"
-tags: null
+removed: true
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
+  - Season 1 Chapter 2: "Card Removed"
 ---
 
 ::details-section
@@ -16,5 +19,5 @@ All portals on the map are disabled. This is a map specific card and currently i
 ::
 
 ::strategies-section
-Coming Soon
+Strategies not added because the card was removed from the game.
 ::

@@ -4,7 +4,9 @@ imagePath: /shard-card-images/holistic_deadicine.webp
 title: Holistic Deadicine
 description: "[N Points] [Kill]: Regain Nx10% HP."
 cost: n
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

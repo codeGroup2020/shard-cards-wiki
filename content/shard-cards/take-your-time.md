@@ -4,7 +4,9 @@ imagePath: /shard-card-images/take_your_time.webp
 title: Take Your Time
 description: "[N Points] [Converter]: Converting time +Nx10s."
 cost: n
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

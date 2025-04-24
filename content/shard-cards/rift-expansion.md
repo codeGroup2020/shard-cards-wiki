@@ -4,7 +4,9 @@ imagePath: /shard-card-images/rift_expansion.webp
 title: Rift Expansion
 description: Enlarge the Target Site.
 cost: "3"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

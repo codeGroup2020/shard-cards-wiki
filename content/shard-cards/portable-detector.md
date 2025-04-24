@@ -4,7 +4,9 @@ imagePath: /shard-card-images/portable_detector.webp
 title: Portable Detector
 description: Detect enemy gadgets nearby.
 cost: "2"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

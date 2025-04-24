@@ -4,7 +4,9 @@ imagePath: /shard-card-images/equipment_supply.webp
 title: Equipment Supply
 description: All weapons gain one more use.
 cost: "5"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

@@ -4,7 +4,9 @@ imagePath: /shard-card-images/parting_flash.webp
 title: Parting Flash
 description: "[Deathrattle]: Release flashbang."
 cost: "2"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

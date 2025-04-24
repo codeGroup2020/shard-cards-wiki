@@ -4,7 +4,9 @@ imagePath: /shard-card-images/mini_mags.webp
 title: Mini Mags
 description: "[N Points]: Enemy mag size and ammo -Nx5%."
 cost: n
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

@@ -4,13 +4,16 @@ imagePath: /shard-card-images/healing_site_a.webp
 title: Healing Site A
 description: "[N Points]: Generate a healing zone in Site A, healing Nx2 HP per second."
 cost: n
-tags: null
+removed: true
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
+  - Season 1 Chapter 2: "Card Removed"
 ---
 
 ::details-section
-Coming Soon
+Details not added because the card was removed from the game.
 ::
 
 ::strategies-section
-Coming Soon
+Strategies not added because the card was removed from the game.
 ::

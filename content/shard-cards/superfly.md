@@ -4,7 +4,9 @@ imagePath: /shard-card-images/superfly.webp
 title: Superfly
 description: Gain double jump.
 cost: "4"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

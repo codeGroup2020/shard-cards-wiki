@@ -4,7 +4,9 @@ imagePath: /shard-card-images/hidden_cameras.webp
 title: Hidden Cameras
 description: "[Treasure]: Transform into video cameras you can look through."
 cost: "3"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

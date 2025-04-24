@@ -4,7 +4,9 @@ imagePath: /shard-card-images/quick_defuse.webp
 title: Quick Defuse
 description: "[Converter]: Defusing time -50%."
 cost: "3"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

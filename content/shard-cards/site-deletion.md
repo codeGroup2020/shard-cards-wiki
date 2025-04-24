@@ -4,7 +4,9 @@ imagePath: /shard-card-images/site_deletion.webp
 title: Site Deletion
 description: Remove one Target Site randomly.
 cost: "5"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

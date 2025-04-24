@@ -4,7 +4,9 @@ imagePath: /shard-card-images/piercing_bullet.webp
 title: Piercing Bullet
 description: "[Bullet]s can go through walls once."
 cost: "4"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

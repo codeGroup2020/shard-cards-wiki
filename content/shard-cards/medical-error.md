@@ -4,7 +4,9 @@ imagePath: /shard-card-images/medical_error.webp
 title: Medical Error
 description: No Healing for enemies.
 cost: "5"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

@@ -4,7 +4,9 @@ imagePath: /shard-card-images/maximum_overhealth.webp
 title: Maximum Overhealth
 description: "[Healing]: Heal up to extra 25 Max HP."
 cost: "4"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

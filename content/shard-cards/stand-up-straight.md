@@ -4,7 +4,10 @@ imagePath: /shard-card-images/stand_up_straight.webp
 title: Stand Up Straight!
 description: Enemies can't crouch or slide.
 cost: "3"
-tags: null
+removed: true
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
+  - Season 1 Chapter 2: "Card Removed"
 ---
 
 ::details-section
@@ -16,5 +19,5 @@ Enemies cannot crouch or slide for the round.
 ::
 
 ::strategies-section
-Coming Soon
+Strategies not added because the card was removed from the game.
 ::

@@ -4,7 +4,9 @@ imagePath: /shard-card-images/bio_warrior.webp
 title: Bio-Warrior
 description: "[Deathrattle]: Respawn as zombies once."
 cost: "5"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

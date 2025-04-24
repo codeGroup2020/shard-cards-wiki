@@ -4,7 +4,9 @@ imagePath: /shard-card-images/bigger_bombs.webp
 title: Bigger Bombs
 description: Explosion ranges +50%.
 cost: "3"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

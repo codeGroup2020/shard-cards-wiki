@@ -4,7 +4,9 @@ imagePath: /shard-card-images/swift_resolution.webp
 title: Swift Resolution
 description: Match time -30s.
 cost: "3"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

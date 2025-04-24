@@ -4,7 +4,9 @@ imagePath: /shard-card-images/inherit_the_wind.webp
 title: Inherit the Wind
 description: "[Deathrattle]: Ally skill uses +1."
 cost: "3"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

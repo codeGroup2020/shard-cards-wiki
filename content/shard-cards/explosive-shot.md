@@ -4,7 +4,9 @@ imagePath: /shard-card-images/explosive_shot.webp
 title: Explosive Shot
 description: "[Bullet]: Explode on impact"
 cost: "4"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

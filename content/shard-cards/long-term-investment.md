@@ -4,7 +4,9 @@ imagePath: /shard-card-images/long_term_investment.webp
 title: Long-Term Investment
 description: For every 7s you're alive, Shard Points +0.1.
 cost: "2"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

@@ -4,7 +4,9 @@ imagePath: /shard-card-images/psychic_defusing.webp
 title: Psychic Defusing
 description: The [Converter] automatically starts defusing when Defenders are nearby.
 cost: "3"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

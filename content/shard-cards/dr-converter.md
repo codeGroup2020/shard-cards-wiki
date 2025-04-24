@@ -4,7 +4,9 @@ imagePath: /shard-card-images/dr_converter.webp
 title: Dr. Converter
 description: "[Converter]: Heal nearby teamates when carrying the Converter."
 cost: "3"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

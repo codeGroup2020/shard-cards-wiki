@@ -4,7 +4,9 @@ imagePath: /shard-card-images/mission_bound.webp
 title: Mission Bound
 description: You cannot die while planting the [Converter].
 cost: "2"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

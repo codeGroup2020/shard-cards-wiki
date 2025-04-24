@@ -4,7 +4,9 @@ imagePath: /shard-card-images/homing_projectiles.webp
 title: Homing Projectiles
 description: "[Projectiles]: Track Enemies"
 cost: "3"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

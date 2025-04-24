@@ -4,7 +4,9 @@ imagePath: /shard-card-images/vampire_bullet.webp
 title: Vampire Bullet
 description: "[N Points] [Bullet]: Lifesteal +Nx5%."
 cost: n
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

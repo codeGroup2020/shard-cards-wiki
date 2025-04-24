@@ -4,7 +4,9 @@ imagePath: /shard-card-images/deaths_embrace.webp
 title: Death's Embrace
 description: A Reaper appears behind injured enemies, slashing anyone in range.
 cost: "3"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

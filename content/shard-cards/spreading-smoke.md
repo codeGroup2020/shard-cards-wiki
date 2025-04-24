@@ -4,7 +4,9 @@ imagePath: /shard-card-images/spreading_smoke.webp
 title: Spreading Smoke
 description: Smoke size +50%.
 cost: "3"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

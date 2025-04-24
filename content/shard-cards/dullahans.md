@@ -4,7 +4,9 @@ imagePath: /shard-card-images/dullahans.webp
 title: Dullahans
 description: Allied heads become invulnerable flames.
 cost: "5"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

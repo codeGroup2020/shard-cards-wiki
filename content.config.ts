@@ -12,11 +12,10 @@ export default defineContentConfig({
         title:       z.string(),
         description: z.string(),
         cost:        z.enum(['n', '1', '2', '3', '4', '5']),
-        tags:        z.array(z.object({
-          title:       z.string(),
-          description: z.string(),
-          color:       z.string().regex(/^#?[0-9A-Fa-f]{6}$/, 'Must be a valid hex color'),
-        })),
+        removed:     z.boolean(),
+        changeHistory: z.array(
+          z.record(z.string(), z.string())
+        )
       })
     })
   }

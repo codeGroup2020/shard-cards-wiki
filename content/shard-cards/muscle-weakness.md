@@ -4,7 +4,9 @@ imagePath: /shard-card-images/muscle_weakness.webp
 title: Muscle Weakness
 description: Enemy [projectiles] fall faster.
 cost: "3"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

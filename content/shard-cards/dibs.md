@@ -4,7 +4,9 @@ imagePath: /shard-card-images/dibs.webp
 title: Dibs
 description: "[Treasures]: Only destructible by your team."
 cost: "3"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

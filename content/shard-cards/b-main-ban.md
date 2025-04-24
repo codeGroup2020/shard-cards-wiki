@@ -4,7 +4,9 @@ imagePath: /shard-card-images/b_main_ban.webp
 title: B Main Ban
 description: Block B Main with a desctructible barricade.
 cost: "3"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

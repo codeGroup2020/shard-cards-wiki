@@ -4,7 +4,9 @@ imagePath: /shard-card-images/headshot_master.webp
 title: Headshot Master
 description: "[N Points] [Headshot]: Damage +Nx10%."
 cost: n
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

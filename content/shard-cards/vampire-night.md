@@ -4,7 +4,9 @@ imagePath: /shard-card-images/vampire_night.webp
 title: Vampire Night
 description: Gain Vampire power. The power evolves after the team deals enough damage.
 cost: "5"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

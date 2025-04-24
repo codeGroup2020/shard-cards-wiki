@@ -4,7 +4,9 @@ imagePath: /shard-card-images/sustained_crab_walk.webp
 title: Sustained Crab Walk
 description: When taking continuous damage, the enemy is forced to crouch.
 cost: "3"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

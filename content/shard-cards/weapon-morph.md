@@ -4,7 +4,9 @@ imagePath: /shard-card-images/weapon_morph.webp
 title: Weapon Morph
 description: A dropped weapon becomes a turret.
 cost: "5"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

@@ -4,7 +4,9 @@ imagePath: /shard-card-images/invest_in_the_future.webp
 title: Invest in the Future
 description: Double Shard Point gains this round.
 cost: "3"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section

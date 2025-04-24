@@ -4,7 +4,9 @@ imagePath: /shard-card-images/lucky_bullets.webp
 title: Lucky Bullets
 description: Fire an extra bullet in a random direction with every shot.
 cost: "4"
-tags: null
+removed: false
+changeHistory:
+  - Season 1 Chapter 1: "Card Added"
 ---
 
 ::details-section
