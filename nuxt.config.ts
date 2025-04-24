@@ -1,5 +1,5 @@
-// https://nuxt.com/docs/api/configuration/nuxt-config
-import tailwindcss from "@tailwindcss/vite";
+import fs from 'node:fs'
+import path from 'node:path'
 
 export default defineNuxtConfig({
   runtimeConfig: {
@@ -13,25 +13,39 @@ export default defineNuxtConfig({
       FIREBASE_STORAGE_BUCKET: process.env.FIREBASE_STORAGE_BUCKET,
     }
   },
-  watch: [
-    '~/content/**/*.md'
-  ],
+
+  watch: ['~/content/**/*.md'],
+
   content: {
     preview: {
       api: 'https://api.nuxt.studio'
     }
   },
-  modules: ['@nuxt/content', '@nuxt/ui', 'nuxt-easy-lightbox'],
+
+  modules: [
+    '@nuxtjs/sitemap',
+    '@nuxtjs/robots',
+    '@nuxt/content',
+    '@nuxt/ui',
+    'nuxt-easy-lightbox',
+  ],
+
   compatibilityDate: '2024-11-01',
   devtools: { enabled: true },
+
   css: ['~/assets/css/main.css'],
+
   vite: {
-    plugins: [
-      tailwindcss(),
-    ],
+    plugins: [],
   },
+
   plugins: [
     '~/plugins/firebase.client.ts',
     '~/plugins/analytics-tracker.client.ts'
-  ]
+  ],
+
+  site: {
+    url: 'https://shardcards.com',
+    name: 'Shard Cards Wiki',
+  }
 })

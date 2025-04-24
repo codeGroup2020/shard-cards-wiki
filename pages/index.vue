@@ -10,7 +10,15 @@ const { data: cards } = await useAsyncData('shardCards', () =>
   queryCollection('shardCards').all()
 )
 
-
+useHead({
+  title:'SHARDCARDS.GG',
+  meta: [
+    {
+      name: 'description',
+      content: 'The definitive wiki for Shard Cards in FragPunk',
+    },
+  ],
+})
 
 const searchTerm = ref('')
 

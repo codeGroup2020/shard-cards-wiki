@@ -1,15 +1,6 @@
 <script setup lang="ts">
 import { useHead, useRoute, navigateTo } from '#imports'
 
-useHead({
-  script: [
-    {
-      src: 'https://cdn.commento.io/js/commento.js',
-      defer: true,
-    },
-  ],
-})
-
 definePageMeta({
   layout: 'main'
 })
@@ -17,6 +8,24 @@ definePageMeta({
 const route = useRoute()
 const { data: card } = await useAsyncData(route.path, () => {
   return queryCollection('shardCards').path(route.path).first()
+})
+
+useHead({
+  title: card.value ? `${card.value.title} | SHARDCARDS.GG` : 'SHARDCARDS.GG',
+  meta: [
+    {
+      name: 'description',
+      content: card.value
+        ? `Card details for ${card.value.title} Shard Card in FragPunk`
+        : 'The definitive wiki for Shard Cards in FragPunk',
+    },
+  ],
+  script: [
+    {
+      src: 'https://cdn.commento.io/js/commento.js',
+      defer: true,
+    },
+  ],
 })
 
 if (!card.value) {
