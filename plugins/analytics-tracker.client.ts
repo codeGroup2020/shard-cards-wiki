@@ -1,13 +1,8 @@
-// ~/plugins/firebase.client.ts
 import { defineNuxtPlugin } from '#app'
 import { initializeApp } from 'firebase/app'
-import {
-  getFirestore,
-  enableIndexedDbPersistence
-} from 'firebase/firestore'
-import { getAuth, signInAnonymously } from 'firebase/auth'
+import { getAnalytics, isSupported, logEvent } from 'firebase/analytics'
 
-export default defineNuxtPlugin(() => {
+export default defineNuxtPlugin(async () => {
   const config = useRuntimeConfig().public
 
   const app = initializeApp({
@@ -20,16 +15,16 @@ export default defineNuxtPlugin(() => {
     measurementId: config.FIREBASE_MEASUREMENT_ID
   })
 
-  const db = getFirestore(app)
-  enableIndexedDbPersistence(db).catch(() => {})
+  if (process.client && await isSupported()) {
+    const analytics = getAnalytics(app)
 
-  const auth = getAuth(app)
-  signInAnonymously(auth).catch(console.warn)
-
-  return {
-    provide: {
-      firebaseDb: db,
-      firebaseAuth: auth
-    }
+    // Track page views
+    useNuxtApp().hook('page:finish', () => {
+      logEvent(analytics, 'page_view', {
+        page_location: window.location.href,
+        page_path: window.location.pathname,
+        page_title: document.title
+      })
+    })
   }
 })

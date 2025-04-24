@@ -29,5 +29,9 @@ export default defineNuxtConfig({
     plugins: [
       tailwindcss(),
     ],
-  }
+  },
+  plugins: [
+    '~/plugins/firebase.client.ts',
+    '~/plugins/analytics-tracker.client.ts'
+  ]
 })
