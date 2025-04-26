@@ -10,7 +10,18 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+All projectiles grow larger during flight and deal significant impact damage to enemies. Normal effects of the projectile are not changed.
+::
+
+::titled-video
+---
+title: Bigger and Badder Demonstration
+videoPath: \shard-card-pages-content\bigger-and-badder\bigger-and-badder-demonstration.webm
+---
 ::
 
 ::strategies-section

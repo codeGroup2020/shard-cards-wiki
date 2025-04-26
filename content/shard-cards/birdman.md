@@ -10,7 +10,22 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+While aiming down sights you fall much slower. You can move while falling.
+::
+
+::text-paragraph
+You are accurate when firing while aiming down sites with this card when midair.
+::
+
+::titled-video
+---
+title: Birdman Demonstration
+videoPath: \shard-card-pages-content\birdman\birdman-demonstration.webm
+---
 ::
 
 ::strategies-section

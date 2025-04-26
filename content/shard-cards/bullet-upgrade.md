@@ -11,7 +11,34 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+Each of the four utility pistols effects are upgraded and improved.
+::
+
+::text-paragraph
+The blaster has its normal explosion, but then four mini-bombs are thrown out from the initial explosion, each of which explodes after a delay.
+::
+
+::text-paragraph
+The flasher projectile flashes a second time after a delay, and you are immune to your own flashes.
+::
+
+::text-paragraph
+The smoker reveals enemies within the smoke.
+::
+
+::text-paragraph
+The burner has a larger range, does more damage, and slows enemies in the area of effect. Additionally you are immune to your own mollys.
+::
+
+::titled-video
+---
+title: Bullet Upgrade Demonstration
+videoPath: \shard-card-pages-content\bullet-upgrade\bullet-upgrade-demonstration.webm
+---
 ::
 
 ::strategies-section

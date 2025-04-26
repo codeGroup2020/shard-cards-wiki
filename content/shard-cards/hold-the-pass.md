@@ -11,7 +11,11 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+This card is map specific and only available on Black Market. With this card, while you are standing on the bridge you regen heath at a rate of 5 HP per second.
 ::
 
 ::strategies-section

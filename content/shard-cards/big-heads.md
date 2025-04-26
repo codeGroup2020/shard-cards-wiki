@@ -10,7 +10,17 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::image-comparison
+---
+title: Big Heads Comparison
+imageOneLabel: Normal
+imageOnePath: \shard-card-pages-content\big-heads\normal.webp
+imageTwoLabel: Big Head
+imageTwoPath: \shard-card-pages-content\big-heads\big-head.webp
+---
 ::
 
 ::strategies-section

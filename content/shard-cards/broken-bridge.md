@@ -10,7 +10,18 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+This card is map specific and is only available on Black Market. When active the bridge mid is open and cannot be crossed and the control panels for toggling the bridge state are also disabled.
+::
+
+::titled-image
+---
+title: Broken Bridge
+imagePath: \shard-card-pages-content\broken-bridge\broken-bridge.webp
+---
 ::
 
 ::strategies-section

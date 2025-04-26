@@ -10,7 +10,11 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+You can equip primary weapons to both your primary and secondary weapon slots.
 ::
 
 ::strategies-section

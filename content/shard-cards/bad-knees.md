@@ -11,7 +11,11 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+Enemies take fall damage. They don't take damage from jumping on flat ground, but they do for any height higher than jump height. Damage scales from 8 damage at just above jump height to 20 damage max.
 ::
 
 ::strategies-section

@@ -10,7 +10,11 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+The spawn barriers on your teams side become breakable, each barrier has 7,000 HP (for reference this is 2 1/2 magazines with the Ghost Pepper LMG at close range). Each barrier has an indicator with the percentage health left.
 ::
 
 ::strategies-section
