@@ -10,7 +10,11 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+A random teamate has 1500 HP but deals 10% of their normal damage.
 ::
 
 ::strategies-section

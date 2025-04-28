@@ -10,7 +10,11 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+Closeable doors on the map (the ones that the other team can hack to open) are disabled.
 ::
 
 ::strategies-section

@@ -10,7 +10,11 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+Shooting teamates heals them for 30% of the normal weapon damage.
 ::
 
 ::strategies-section

@@ -11,7 +11,18 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+Shooting a teamate deals 5 damage to them but they get a 40% speed boost and a fire rate boost for 4 seconds. If the damage would kill the teamate, they take no damage and do not receive the buffs.
+::
+
+::titled-video
+---
+title: Painful Motivation Demonstration
+videoPath: \shard-card-pages-content\painful-motivation\painful-motivation-demonstration.webm
+---
 ::
 
 ::strategies-section

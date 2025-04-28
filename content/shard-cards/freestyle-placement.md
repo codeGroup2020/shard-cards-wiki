@@ -10,7 +10,11 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+Attackers can plant the converter anywhere on the map after barriers drop, but it takes 40 seconds longer for the converter to explode than normal.
 ::
 
 ::strategies-section

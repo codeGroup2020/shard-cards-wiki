@@ -10,7 +10,11 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+Explosions deal Nx20% more damage.
 ::
 
 ::strategies-section

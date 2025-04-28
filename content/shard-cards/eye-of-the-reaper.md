@@ -10,7 +10,18 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+After the converter is planted it sends out pulses every 2.5s that travel out to a range of 15 meters. The pulses reveal any enemies that they reach.
+::
+
+::titled-video
+---
+title: Eye of the Reaper Demonstration
+videoPath: \shard-card-pages-content\eye-of-the-reaper\eye-of-the-reaper-demonstration.webm
+---
 ::
 
 ::strategies-section

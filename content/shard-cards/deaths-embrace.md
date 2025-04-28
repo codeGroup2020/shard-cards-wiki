@@ -10,7 +10,18 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+The first time enemies take damage, it starts a 3 second timer. At the end of that time a reaper appears at the enemy's location creating a circular area of effect 12 meters in diameter. After a 2.5s windup the reaper slashes the area dealing 75 damage to anyone in the area.
+::
+
+::titled-video
+---
+title: Hidden Cameras Demonstration
+videoPath: \shard-card-pages-content\deaths-embrace\deaths-embrace-demonstration.webm
+---
 ::
 
 ::strategies-section

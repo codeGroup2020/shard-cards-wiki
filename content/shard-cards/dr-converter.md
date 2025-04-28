@@ -10,7 +10,11 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+While holding the converter you heal all teamates within 5 meters at a rate of 5 HP per second.
 ::
 
 ::strategies-section

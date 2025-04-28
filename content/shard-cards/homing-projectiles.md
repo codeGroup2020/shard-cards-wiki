@@ -10,7 +10,18 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+Projectiles are attracted to enemies when within 20 meters of them.
+::
+
+::titled-video
+---
+title: Homing Projectiles Demonstration
+videoPath: \shard-card-pages-content\homing-projectiles\homing-projectiles.webm
+---
 ::
 
 ::strategies-section

@@ -10,7 +10,22 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+When you ingure an enemy, for 15 seconds there will be a trail pointing from you to the injured enemy.
+::
+
+::text-paragraph
+After your team has dealt 200 damage, an additional ability activates. When you damage an enemy they take an additional 5 ticks of damage over the next approximately 2 seconds
+::
+
+::titled-video
+---
+title: Full Moon Demonstration
+videoPath: \shard-card-pages-content\full-moon\full-moon-demonstration.webm
+---
 ::
 
 ::strategies-section

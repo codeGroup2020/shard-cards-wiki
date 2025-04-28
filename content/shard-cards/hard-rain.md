@@ -10,7 +10,11 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+After 5 seconds of being under open sky, start generating a shield at a rate of 3 shield per second up to a maximum of 25 shield. After taking damage start regenerating shield after 5 seconds while under open sky.
 ::
 
 ::strategies-section

@@ -10,7 +10,11 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+Damage +Nx10% when within 10 meters of the target.
 ::
 
 ::strategies-section

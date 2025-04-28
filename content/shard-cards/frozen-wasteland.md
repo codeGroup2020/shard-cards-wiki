@@ -10,7 +10,11 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+Everyone (both teamates and enemies) can slide when this card is active.
 ::
 
 ::strategies-section

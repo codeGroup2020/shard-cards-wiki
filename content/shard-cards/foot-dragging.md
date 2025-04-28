@@ -10,7 +10,11 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+Enemies move Nx3% slower.
 ::
 
 ::strategies-section

@@ -11,7 +11,22 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+The first time teamates die, an item appears on the ground, you can interact with the item to revive the teamate. A revival animation plays and then the teamate returns to life with 30% health. When the item is created, a countdown starts and if the player is not revived before the countdown ends then they can no longer be revived.
+::
+
+::text-paragraph
+Enemies can interact with the items to "execute" the downed player to prevent them from being revived.
+::
+
+::titled-video
+---
+title: Life Saver Demonstration
+videoPath: \shard-card-pages-content\life-saver\life-saver-demonstration.webm
+---
 ::
 
 ::strategies-section

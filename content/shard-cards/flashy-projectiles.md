@@ -10,7 +10,18 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+Projectiles spawn a flash that has a 2 second windup. These flashes do not fully flash enemies beyond 15 meters.
+::
+
+::titled-video
+---
+title: Flashy Projectiles Demonstration
+videoPath: \shard-card-pages-content\flashy-projectiles\flashy-projectiles-demonstration.webm
+---
 ::
 
 ::strategies-section

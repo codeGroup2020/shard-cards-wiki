@@ -10,7 +10,11 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+Only your team can destroy treasures.
 ::
 
 ::strategies-section

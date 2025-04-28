@@ -10,7 +10,11 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+When a teamate dies, all remaining teamates gain +1 use to all skills. If a skill is already at its max uses you do not gain any uses.
 ::
 
 ::strategies-section

@@ -10,7 +10,11 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+Enemies cannot see the normal damage indicators showing which direction damage is coming from.
 ::
 
 ::strategies-section

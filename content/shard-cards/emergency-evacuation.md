@@ -10,7 +10,11 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+When bullets are fired within 1 meter of you, you gain a 20% speed boost for 3 seconds.
 ::
 
 ::strategies-section

@@ -10,7 +10,11 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+Bullets explode when hitting terrain and explode dealing 15 damage to enemies within about 1.5 to 2 meters. Bullets that directly hit enemies do not explode or deal extra damage.
 ::
 
 ::strategies-section

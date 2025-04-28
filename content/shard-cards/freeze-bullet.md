@@ -10,7 +10,11 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+When enemies are hit with bullets they are 55% slower for 1 second.
 ::
 
 ::strategies-section

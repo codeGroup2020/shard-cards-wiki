@@ -10,7 +10,18 @@ changeHistory:
 ---
 
 ::details-section
-Coming Soon
+
+::
+
+::text-paragraph
+You can use the "Special Shard Card" keybind to tear off and equip your health bar. You can then aim at a teamate or enemy and use the health bar to swap health with the target. You can still take damage while you have your health bar torn off and equipped.
+::
+
+::titled-video
+---
+title: HUD Remix Demonstration
+videoPath: \shard-card-pages-content\hud-remix\hud-remix-demonstration.webm
+---
 ::
 
 ::strategies-section
