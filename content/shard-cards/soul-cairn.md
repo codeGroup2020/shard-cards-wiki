@@ -1,6 +1,6 @@
 ---
 path: /cards/soul-cairn
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/soul_cairn.webp
 title: Soul Cairn
 description: Each enemy drops a Soul Carin on death.
 cost: "n"

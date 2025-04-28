@@ -1,6 +1,6 @@
 ---
 path: /cards/power-failure
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/power_failure.webp
 title: Power Failure
 description: Disable elevators on the map.
 cost: "n"

@@ -1,6 +1,6 @@
 ---
 path: /cards/slow-bullets
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/slow_bullets.webp
 title: Slow Bullets
 description: "Enemy [Bullets] fly more slowly."
 cost: "n"

@@ -1,6 +1,6 @@
 ---
 path: /cards/healthy-stretching
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/healthy_stretching.webp
 title: Healthy Stretching
 description: Regain 1 HP every time you jump.
 cost: "n"

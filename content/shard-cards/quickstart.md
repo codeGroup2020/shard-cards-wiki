@@ -1,6 +1,6 @@
 ---
 path: /cards/quickstart
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/quickstart.webp
 title: Quickstart
 description: Faster movement for 5s after round begins.
 cost: "n"

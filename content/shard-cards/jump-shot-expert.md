@@ -1,6 +1,6 @@
 ---
 path: /cards/jump-shot-expert
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/jump_shot_expert.webp
 title: Jump Shot Expert
 description: While jumping, bullet spread range is significantly reduced.
 cost: "n"

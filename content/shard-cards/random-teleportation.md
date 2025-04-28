@@ -1,6 +1,6 @@
 ---
 path: /cards/random-teleportation
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/random_teleportation.webp
 title: Random Teleportation
 description: Entering a portal will take you to another portal at random.
 cost: "n"

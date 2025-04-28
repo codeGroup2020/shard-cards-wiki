@@ -1,6 +1,6 @@
 ---
 path: /cards/initial-scan
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/initial_scan.webp
 title: Initial Scan
 description: Expose enemies for 3s when combat begins.
 cost: "n"

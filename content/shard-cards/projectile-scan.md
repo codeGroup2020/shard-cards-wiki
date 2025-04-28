@@ -1,6 +1,6 @@
 ---
 path: /cards/projectile-scan
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/projectile_scan.webp
 title: Projectile Scan
 description: "[Projectiles]: Scan the area on first collision."
 cost: "n"

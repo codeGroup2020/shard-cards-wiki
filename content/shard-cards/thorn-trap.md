@@ -1,6 +1,6 @@
 ---
 path: /cards/thorn-trap
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/thorn_trap.webp
 title: Thorn Trap
 description: Acquire a thorn trap.
 cost: "n"

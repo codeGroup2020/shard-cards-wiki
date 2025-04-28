@@ -1,6 +1,6 @@
 ---
 path: /cards/melee-rod
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/melee_rod.webp
 title: Melee Rod
 description: Generate a Melee Rod at your spawn site.
 cost: "n"

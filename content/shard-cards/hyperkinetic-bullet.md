@@ -1,6 +1,6 @@
 ---
 path: /cards/hyperkinetic-bullet
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/hyperkinetic_bullet.webp
 title: Hyperkinetic Bullet
 description: "[Bullet]: The faster you move, the higher damage you deal."
 cost: "n"

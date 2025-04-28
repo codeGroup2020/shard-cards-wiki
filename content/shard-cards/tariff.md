@@ -1,6 +1,6 @@
 ---
 path: /cards/tariff
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/tariff.webp
 title: Tariff
 description: Get 100% of the Shard Points spent by enemies this round.
 cost: "n"

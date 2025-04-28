@@ -1,6 +1,6 @@
 ---
 path: /cards/haunting
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/haunting.webp
 title: Haunting
 description: "[Deathrattle]: Expose enemies who damaged you in 5s."
 cost: "n"

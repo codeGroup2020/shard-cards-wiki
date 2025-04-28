@@ -1,6 +1,6 @@
 ---
 path: /cards/its-mine-now
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/its_mine_now.webp
 title: It's Mine Now
 description: "[Kill]: You can immediately equip the weapon of the enemy you killed."
 cost: "n"

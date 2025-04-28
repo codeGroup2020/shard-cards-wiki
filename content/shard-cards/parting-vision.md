@@ -1,6 +1,6 @@
 ---
 path: /cards/parting-vision
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/parting_vision.webp
 title: Parting Vision
 description: "[Deathrattle]: Expose nearby enemies."
 cost: "n"

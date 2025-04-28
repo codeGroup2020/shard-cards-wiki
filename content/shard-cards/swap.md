@@ -1,6 +1,6 @@
 ---
 path: /cards/swap
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/swap.webp
 title: Swap!
 description: You can swap positions with a teamate.
 cost: "n"

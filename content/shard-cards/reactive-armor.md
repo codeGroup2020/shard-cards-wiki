@@ -1,6 +1,6 @@
 ---
 path: /cards/reactive-armor
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/reactive_armor.webp
 title: Reactive Armor
 description: Gain a one-time shield with high damage reduction.
 cost: "n"

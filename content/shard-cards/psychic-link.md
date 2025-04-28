@@ -1,6 +1,6 @@
 ---
 path: /cards/psychic-link
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/psychic_link.webp
 title: Psychic Link
 description: Switch to a random enemy's perspective once.
 cost: "n"

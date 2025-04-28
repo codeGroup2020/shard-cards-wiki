@@ -1,7 +1,7 @@
 ---
-path: /cards/open-your-bug-trap
-imagePath: /placeholder.webp
-title: Open Your Bug Trap
+path: /cards/open-your-big-trap
+imagePath: /shard-card-images/open_your_big_trap.webp
+title: Open Your Big Trap
 description: Allied trap range +30%
 cost: "n"
 removed: false

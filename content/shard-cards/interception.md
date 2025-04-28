@@ -1,6 +1,6 @@
 ---
 path: /cards/interception
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/interception.webp
 title: Interception!
 description: "Enemy [projectiles] are big and desctructible."
 cost: "n"

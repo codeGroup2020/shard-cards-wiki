@@ -1,6 +1,6 @@
 ---
 path: /cards/powerful-strike
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/powerful_strike.webp
 title: Powerful Strike
 description: "[Bullet]: Your first shot after 1 second of not firing causes knockback."
 cost: "n"

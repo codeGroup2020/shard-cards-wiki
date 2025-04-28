@@ -1,6 +1,6 @@
 ---
 path: /cards/vitality-staff
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/vitality_staff.webp
 title: Vitality Staff
 description: Generate a Vitality Staff in your spawn site.
 cost: "n"

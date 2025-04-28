@@ -1,6 +1,6 @@
 ---
 path: /cards/time-saving-kill
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/time_saving_kill.webp
 title: Time-Saving Kill
 description: "[Kill]: Reduces round time by 10 seconds."
 cost: "n"

@@ -1,6 +1,6 @@
 ---
 path: /cards/phantom-b-site
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/phantom_b_site.webp
 title: Phantom B Site
 description: B site is misty and infested with phantoms.
 cost: "n"

@@ -1,6 +1,6 @@
 ---
 path: /cards/shield-rod
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/shield_rod.webp
 title: Shield Rod
 description: Generate a Shield Rod at your spawn site.
 cost: "n"

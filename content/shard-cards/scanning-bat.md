@@ -1,6 +1,6 @@
 ---
 path: /cards/scanning-bat
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/scanning_bat.webp
 title: Scanning Bat
 description: A bat flies after you, periodically scanning and revealing nearby enemies.
 cost: "n"

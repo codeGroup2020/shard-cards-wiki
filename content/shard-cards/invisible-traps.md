@@ -1,6 +1,6 @@
 ---
 path: /cards/invisible-traps
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/invisible_traps.webp
 title: Invisible Traps
 description: Allied traps are invisible until triggered.
 cost: "n"

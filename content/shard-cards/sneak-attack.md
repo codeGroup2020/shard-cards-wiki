@@ -1,6 +1,6 @@
 ---
 path: /cards/sneak-attack
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/sneak_attack.webp
 title: Sneak Attack
 description: You cannot be exposed while crouching.
 cost: "n"

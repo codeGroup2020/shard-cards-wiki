@@ -1,6 +1,6 @@
 ---
 path: /cards/yoink
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/yoink.webp
 title: Yoink!
 description: After picking up an enemy weapon, that weapon's uses +1.
 cost: "n"

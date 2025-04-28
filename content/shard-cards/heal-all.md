@@ -1,6 +1,6 @@
 ---
 path: /cards/heal-all
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/heal_all.webp
 title: Heal-All
 description: "[Healing]: Increases ADS and reloading speed in 20 seconds."
 cost: "n"

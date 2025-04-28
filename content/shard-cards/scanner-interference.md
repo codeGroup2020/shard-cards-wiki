@@ -1,6 +1,6 @@
 ---
 path: /cards/scanner-interference
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/scanner_interference.webp
 title: Scanner Interference
 description: Enemy scans only show as pings.
 cost: "n"
