@@ -1,6 +1,6 @@
 ---
 path: /cards/elusiveness
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/elusiveness.webp
 title: Elusiveness
 description: "[Kill]: Become invisible for 2.5 seconds."
 cost: "n"

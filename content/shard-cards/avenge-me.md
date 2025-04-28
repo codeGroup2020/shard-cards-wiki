@@ -1,6 +1,6 @@
 ---
 path: /cards/avenge-me
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/avenge_me.webp
 title: Avenge Me!
 description: "[Deathrattle]: Teamate damage +10%."
 cost: "n"

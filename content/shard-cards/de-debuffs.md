@@ -1,6 +1,6 @@
 ---
 path: /cards/de-debuffs
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/de_debuffs.webp
 title: De-Debuffs
 description: "[N Points]: Enemy skills reduce damage over time and speed by Nx10%."
 cost: "n"

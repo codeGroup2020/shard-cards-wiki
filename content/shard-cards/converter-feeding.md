@@ -1,6 +1,6 @@
 ---
 path: /cards/converter-feeding
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/converter_feeding.webp
 title: Converter Feeding
 description: "[Converter]: The converter eats nearby traps after it's planted, increasing the time required to defuse it."
 cost: "n"

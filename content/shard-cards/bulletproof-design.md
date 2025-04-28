@@ -1,6 +1,6 @@
 ---
 path: /cards/bulletproof-design
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/bulletproof_design.webp
 title: Bulletproof Design
 description: Allied traps are immune to damage.
 cost: "n"

@@ -1,6 +1,6 @@
 ---
 path: /cards/from-the-shadows
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/from_the_shadows.webp
 title: From the Shadows
 description: Weapon damage +30% for 5s after leaving invisibility.
 cost: "n"

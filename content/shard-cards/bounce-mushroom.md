@@ -1,6 +1,6 @@
 ---
 path: /cards/bounce-mushroom
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/bounce_mushroom.webp
 title: Bounce Mushroom
 description: Spawn Bounce Mushrooms on some attacking routes.
 cost: "n"

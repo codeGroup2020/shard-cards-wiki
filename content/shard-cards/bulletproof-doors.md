@@ -1,6 +1,6 @@
 ---
 path: /cards/bulletproof-doors
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/bulletproof_doors.webp
 title: Bulletproof Doors
 description: Upgrade all doors to bulletproof auto-doors.
 cost: "n"

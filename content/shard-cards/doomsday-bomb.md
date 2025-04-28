@@ -1,6 +1,6 @@
 ---
 path: /cards/doomsday-bomb
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/doomsday_bomb.webp
 title: Doomsday Bomb
 description: "[Deathrattle]: Respawn as special zombies that can explode."
 cost: "n"

@@ -1,6 +1,6 @@
 ---
 path: /cards/community-healthcare
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/community_healthcare.webp
 title: Community Healthcare
 description: "[Join Forces]: Regain HP slowly."
 cost: "n"

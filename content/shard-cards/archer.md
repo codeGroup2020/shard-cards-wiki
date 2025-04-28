@@ -1,6 +1,6 @@
 ---
 path: /cards/archer
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/archer.webp
 title: Archer
 description: You and your teamates can transform into archers.
 cost: "n"

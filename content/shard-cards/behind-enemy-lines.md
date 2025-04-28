@@ -1,6 +1,6 @@
 ---
 path: /cards/behind-enemy-lines
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/behind_enemy_lines.webp
 title: Behind Enemy Lines
 description: Swap the spawn locations of Attackers and Defenders, but defusing time +40s.
 cost: "n"

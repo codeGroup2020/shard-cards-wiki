@@ -1,6 +1,6 @@
 ---
 path: /cards/guerilla-fighter
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/guerilla_fighter.webp
 title: Guerilla Fighter
 description: "[Disengage]: Movement speed +15%."
 cost: "n"

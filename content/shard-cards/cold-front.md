@@ -1,6 +1,6 @@
 ---
 path: /cards/cold-front
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/cold_front.webp
 title: Cold Front
 description: A cold front disables all traps.
 cost: "n"

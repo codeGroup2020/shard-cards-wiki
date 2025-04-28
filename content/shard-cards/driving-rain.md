@@ -1,6 +1,6 @@
 ---
 path: /cards/driving-rain
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/driving_rain.webp
 title: Driving Rain
 description: Heavy rain creates flooded areas that slow down enemies.
 cost: "n"

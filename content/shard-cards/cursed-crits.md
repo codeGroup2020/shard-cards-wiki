@@ -1,6 +1,6 @@
 ---
 path: /cards/cursed-crits
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/cursed_crits.webp
 title: Cursed Crits
 description: "[N Points]: Enemy [headshot] damage -Nx5%."
 cost: "n"

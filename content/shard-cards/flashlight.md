@@ -1,6 +1,6 @@
 ---
 path: /cards/flashlight
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/flashlight.webp
 title: Flashlight
 description: Attach a flashlight to your firearm that interferes with enemy sights.
 cost: "n"

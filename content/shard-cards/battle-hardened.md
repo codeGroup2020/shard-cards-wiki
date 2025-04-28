@@ -1,6 +1,6 @@
 ---
 path: /cards/battle-hardened
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/battle_hardened.webp
 title: Battle-Hardened
 description: "[Injured]: Increases the damage you deal."
 cost: "n"

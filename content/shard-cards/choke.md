@@ -1,6 +1,6 @@
 ---
 path: /cards/choke
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/choke.webp
 title: Choke
 description: "Shotguns: Reduce spread significantly."
 cost: "n"

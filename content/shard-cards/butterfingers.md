@@ -1,6 +1,6 @@
 ---
 path: /cards/butterfingers
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/butterfingers.webp
 title: Butterfingers
 description: After a period of continuous fire, enemies drop their primary weapon.
 cost: "n"

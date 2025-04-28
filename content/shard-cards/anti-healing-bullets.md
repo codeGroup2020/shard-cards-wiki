@@ -1,6 +1,6 @@
 ---
 path: /cards/anti-healing-bullets
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/anti_healing_bullets.webp
 title: Anti-Healing Bullets
 description: "[Bullet]: Prevent enemes from recovering HP for 20s."
 cost: "n"

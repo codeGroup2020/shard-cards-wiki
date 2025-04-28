@@ -1,6 +1,6 @@
 ---
 path: /cards/feral-hogs
-imagePath: /placeholder.webp
+imagePath: /shard-card-images/feral_hogs.webp
 title: Feral Hogs
 description: A friendly red hog follows you, knocking down and disarming enemies.
 cost: "n"
