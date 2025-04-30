@@ -3,14 +3,13 @@ path: /cards/phantom-b-site
 imagePath: /shard-card-images/phantom_b_site.webp
 title: Phantom B Site
 description: B site is misty and infested with phantoms.
-cost: "n"
+cost: "3"
 removed: false
 changeHistory:
   - Season 1 Chapter 2: "Card Added"
 ---
 ::details-section
 Coming Soon
-Shard Point Cost is Not Accurate
 ::
 ::strategies-section
 Coming Soon

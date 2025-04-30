@@ -3,14 +3,13 @@ path: /cards/projectile-scan
 imagePath: /shard-card-images/projectile_scan.webp
 title: Projectile Scan
 description: "[Projectiles]: Scan the area on first collision."
-cost: "n"
+cost: "2"
 removed: false
 changeHistory:
   - Season 1 Chapter 2: "Card Added"
 ---
 ::details-section
 Coming Soon
-Shard Point Cost is Not Accurate
 ::
 ::strategies-section
 Coming Soon

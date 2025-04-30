@@ -3,14 +3,13 @@ path: /cards/time-saving-kill
 imagePath: /shard-card-images/time_saving_kill.webp
 title: Time-Saving Kill
 description: "[Kill]: Reduces round time by 10 seconds."
-cost: "n"
+cost: "3"
 removed: false
 changeHistory:
   - Season 1 Chapter 2: "Card Added"
 ---
 ::details-section
 Coming Soon
-Shard Point Cost is Not Accurate
 ::
 ::strategies-section
 Coming Soon

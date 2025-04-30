@@ -11,13 +11,13 @@ const { data: card } = await useAsyncData(route.path, () => {
 })
 
 useHead({
-  title: card.value ? `${card.value.title} | SHARDCARDS.GG` : 'SHARDCARDS.GG',
+  title: card.value ? `${card.value.title} - FragPunk Shard Card Details` : 'FragPunk Shard Cards Wiki',
   meta: [
     {
       name: 'description',
       content: card.value
-        ? `Card details for ${card.value.title} Shard Card in FragPunk`
-        : 'The definitive wiki for Shard Cards in FragPunk',
+        ? `${card.value.title} - Learn everything about this FragPunk Shard Card: stats, ratings, strategies, and more!`
+        : 'Explore every Shard Card in FragPunk at SHARDCARDS.GG — the definitive wiki and guide.',
     },
   ],
   script: [

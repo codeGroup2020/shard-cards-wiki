@@ -10,7 +10,6 @@ changeHistory:
 ---
 ::details-section
 Coming Soon
-Shard Point Cost is Not Accurate
 ::
 ::strategies-section
 Coming Soon

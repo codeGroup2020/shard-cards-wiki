@@ -11,13 +11,13 @@ const { data: cards } = await useAsyncData('shardCards', () =>
 )
 
 useHead({
-  title:'SHARDCARDS.GG',
+  title: 'FragPunk Shard Cards Wiki | SHARDCARDS.GG',
   meta: [
     {
       name: 'description',
-      content: 'The definitive wiki for Shard Cards in FragPunk',
+      content: 'Explore the complete FragPunk Shard Cards Wiki — stats, descriptions, strategies, and more for every Shard Card.',
     },
-  ],
+  ]
 })
 
 const searchTerm = ref('')

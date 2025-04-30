@@ -3,14 +3,13 @@ path: /cards/hyperkinetic-bullet
 imagePath: /shard-card-images/hyperkinetic_bullet.webp
 title: Hyperkinetic Bullet
 description: "[Bullet]: The faster you move, the higher damage you deal."
-cost: "n"
+cost: "2"
 removed: false
 changeHistory:
   - Season 1 Chapter 2: "Card Added"
 ---
 ::details-section
 Coming Soon
-Shard Point Cost is Not Accurate
 ::
 ::strategies-section
 Coming Soon

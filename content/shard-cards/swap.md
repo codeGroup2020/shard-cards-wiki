@@ -3,14 +3,13 @@ path: /cards/swap
 imagePath: /shard-card-images/swap.webp
 title: Swap!
 description: You can swap positions with a teamate.
-cost: "n"
+cost: "2"
 removed: false
 changeHistory:
   - Season 1 Chapter 2: "Card Added"
 ---
 ::details-section
 Coming Soon
-Shard Point Cost is Not Accurate
 ::
 ::strategies-section
 Coming Soon
