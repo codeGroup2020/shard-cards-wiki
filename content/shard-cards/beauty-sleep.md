@@ -14,7 +14,11 @@ changeHistory:
 ::
 
 ::text-paragraph
-Pressing the "Special Shard Card" key binding causes you to enter third person view, an animation then plays of you laying down on the ground and then you start regenerating health. Trying to take an action such as moving or shooting causes an animation of you standing back up to play and then you renter first person view.
+Pressing the "Special Shard Card" key binding causes you to enter third person view, an animation then plays of you laying down on the ground, and then you start regenerating health. Trying to take an action such as moving or shooting causes an animation of you standing back up to play and then you renter first person view.
+::
+
+::text-paragraph
+You regenerate health at a rate of around 3.3 HP per second.
 ::
 
 ::text-paragraph
@@ -23,7 +27,7 @@ The laying down and standing up animations are each 2.75 seconds in duration and
 
 ::titled-video
 ---
-title: Hidden Cameras Demonstration
+title: Beauty Sleep Demonstration
 videoPath: \shard-card-pages-content\beauty-sleep\beauty-sleep-demonstration.webm
 ---
 ::

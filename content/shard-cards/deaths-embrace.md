@@ -19,7 +19,7 @@ The first time enemies take damage, it starts a 3 second timer. At the end of th
 
 ::titled-video
 ---
-title: Hidden Cameras Demonstration
+title: Death's Embrace Demonstration
 videoPath: \shard-card-pages-content\deaths-embrace\deaths-embrace-demonstration.webm
 ---
 ::
