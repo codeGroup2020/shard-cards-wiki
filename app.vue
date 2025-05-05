@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { useHead } from '#imports'
+import Icon from '@nuxt/ui/runtime/components/Icon.vue';
 
 useHead({
   script: [
@@ -17,7 +18,13 @@ useHead({
       'data-y_margin': '18',
       async: true
     },
-    
+  ],
+  link: [
+    {
+      rel: "icon",
+      type: "image/png",
+      href: "favicon.ico"
+    }
   ]
 })
 </script>
