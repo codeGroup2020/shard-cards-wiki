@@ -15,7 +15,7 @@ underConstruction: false
 ::
 
 ::text-paragraph
-Projectiles are attracted to enemies when within 20 meters of them.
+Projectiles are attracted to enemies when within 20 meters of them. Projectiles are attracted to vertical level of enemies feet.
 ::
 
 ::titled-video
