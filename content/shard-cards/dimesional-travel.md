@@ -8,6 +8,7 @@ cost: "4"
 removed: false
 changeHistory:
   - Season 1 Chapter 1: "Card Added"
+underConstruction: true
 ---
 
 ::details-section

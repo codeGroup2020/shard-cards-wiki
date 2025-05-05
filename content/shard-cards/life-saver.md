@@ -8,6 +8,7 @@ removed: false
 changeHistory:
   - Season 1 Chapter 1: "Card Added"
   - Season 1 Chapter 2: "Teamates now only have 30% health on revival."
+underConstruction: false
 ---
 
 ::details-section

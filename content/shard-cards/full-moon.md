@@ -7,6 +7,7 @@ cost: "3"
 removed: false
 changeHistory:
   - Season 1 Chapter 1: "Card Added"
+underConstruction: false
 ---
 
 ::details-section
@@ -18,7 +19,7 @@ When you ingure an enemy, for 15 seconds there will be a trail pointing from you
 ::
 
 ::text-paragraph
-After your team has dealt 200 damage, an additional ability activates. When you damage an enemy they take an additional 5 ticks of damage over the next approximately 2 seconds
+After your team has dealt 200 damage, an additional ability activates. When you damage an enemy they take an additional 5 damage over approximately the next 2 seconds
 ::
 
 ::titled-video

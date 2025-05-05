@@ -8,6 +8,7 @@ removed: false
 changeHistory:
   - Season 1 Chapter 1: "Card Added"
   - Season 1 Chapter 2: "Increased the movement speed bost from 15% to 40%."
+underConstruction: false
 ---
 
 ::details-section

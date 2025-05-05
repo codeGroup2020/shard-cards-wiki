@@ -8,6 +8,7 @@ removed: false
 changeHistory:
   - Season 1 Chapter 1: "Card Added"
   - Season 1 Chapter 2: "Reduced the required Shard Points to 2."
+underConstruction: false
 ---
 
 ::details-section

@@ -8,6 +8,7 @@ removed: false
 changeHistory:
   - Season 1 Chapter 1: "Card Added"
   - Season 1 Chapter 2: "Now only affects the side that plays the card, instead of both"
+underConstruction: false
 ---
 
 ::details-section

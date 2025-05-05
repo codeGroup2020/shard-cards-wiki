@@ -9,6 +9,7 @@ changeHistory:
   - Season 1 Chapter 1: "Card Added"
   - Season 1 Chapter 2: "Fixed an issue where flames would still appear when Infernal Hounds were destroyed."
   - Season 1 Chapter 2: "Fixed an issue where flames could penetrat walls and burn players at certain locations."
+underConstruction: true
 ---
 
 ::details-section

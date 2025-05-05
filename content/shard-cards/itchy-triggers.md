@@ -8,6 +8,7 @@ removed: false
 changeHistory:
   - Season 1 Chapter 1: "Card Added"
   - Season 1 Chapter 2: "No longer affects skills and melee weapons."
+underConstruction: true
 ---
 
 ::details-section

@@ -7,13 +7,14 @@ cost: "2"
 removed: false
 changeHistory:
   - Season 1 Chapter 1: "Card Added"
+underConstruction: false
 ---
 
 ::details-section
 ::
 
 ::text-paragraph
-Enemy gadgets—such as traps—are revealed when they’re within a 9‑meter radius of you or any teammate.
+Enemy gadgets—such as traps—are revealed when they’re within a 9 meter radius of you or any teammate.
 ::
 
 ::titled-video

@@ -8,6 +8,7 @@ removed: false
 changeHistory:
   - Season 1 Chapter 1: "Card Added"
   - Season 1 Chapter 2: "Optimized the height detection mechanism."
+underConstruction: false
 ---
 
 ::details-section

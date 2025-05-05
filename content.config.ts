@@ -15,7 +15,8 @@ export default defineContentConfig({
         removed:     z.boolean(),
         changeHistory: z.array(
           z.record(z.string(), z.string())
-        )
+        ),
+        underConstruction:  z.boolean(),
       })
     })
   }

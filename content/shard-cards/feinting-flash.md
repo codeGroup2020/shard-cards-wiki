@@ -8,6 +8,7 @@ removed: true
 changeHistory:
   - Season 1 Chapter 1: "Card Added"
   - Season 1 Chapter 2: "Card Removed"
+underConstruction: false
 ---
 
 ::details-section

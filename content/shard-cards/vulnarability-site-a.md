@@ -7,6 +7,7 @@ cost: "n"
 removed: false
 changeHistory:
   - Season 1 Chapter 2: "Card Added"
+underConstruction: true
 ---
 ::details-section
 Coming Soon

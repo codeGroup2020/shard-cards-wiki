@@ -8,6 +8,7 @@ removed: false
 changeHistory:
   - Season 1 Chapter 1: "Card Added"
   - Season 1 Chapter 2: "It is now easier to reach maximum effectiveness."
+underConstruction: true
 ---
 
 ::details-section

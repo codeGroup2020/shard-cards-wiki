@@ -8,6 +8,7 @@ removed: false
 changeHistory:
   - Season 1 Chapter 1: "Card Added"
   - Season 1 Chapter 2: "The time from the target site to close has been adjusted from 60 seconds to 75 seconds."
+underConstruction: false
 ---
 
 ::details-section

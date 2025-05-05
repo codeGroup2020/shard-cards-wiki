@@ -8,6 +8,7 @@ removed: false
 changeHistory:
   - Season 1 Chapter 1: "Card Added"
   - Season 1 Chapter 2: "Reduced single hit damage from 40 to 25."
+underConstruction: true
 ---
 
 ::details-section

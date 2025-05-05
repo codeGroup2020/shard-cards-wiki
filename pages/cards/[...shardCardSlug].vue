@@ -34,16 +34,22 @@ if (!card.value) {
 </script>
 
 <template>
-  <div class="flex m-4">
-    <UButton
-      icon="material-symbols:arrow-back-rounded"
-      label="Back to Card List"
-      color="neutral"
-      class="cursor-pointer"
-      @click="navigateTo('/')"
-    />
-  </div>
   <div v-if="card">
+    <div 
+      v-if="card.underConstruction"
+      class="w-full bg-red-500 h-16 flex flex-col justify-center relative"
+    >
+        <p class="text-center text-xl">This page is still under construction and may be missing content!</p>
+    </div>
+    <div class="flex m-4">
+      <UButton
+        icon="material-symbols:arrow-back-rounded"
+        label="Back to Card List"
+        color="neutral"
+        class="cursor-pointer"
+        @click="navigateTo('/')"
+      />
+    </div>
     <div class="flex sm:h-72 flex-col sm:flex-row m-5 gap-5 justify-between">
           <div class="w-full md:w-1/3 flex flex-col gap-5 justify-center items-center">
             <h1 class="text-5xl font-bold text-center">{{ card.title }}</h1>
