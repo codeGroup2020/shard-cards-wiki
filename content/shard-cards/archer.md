@@ -10,7 +10,7 @@ changeHistory:
 underConstruction: false
 ---
 ::details-section
-Coming Soon
+
 ::
 
 ::text-paragraph
@@ -50,7 +50,7 @@ The third archer ability is Vine Arrow. Immediately draw back and fire an arrow 
 ---
 title: Archer Demonstration
 videoPath: \shard-card-pages-content\archer\archer_demonstration.webm
---
+---
 
 ::strategies-section
 Coming Soon
